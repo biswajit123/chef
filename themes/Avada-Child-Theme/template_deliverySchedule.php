@@ -158,7 +158,7 @@ if($f____d == 'Thursday' || $f____d == 'Friday' || $f____d == 'Saturday'){
 	$dd_day = 10;
 }
 
-$dd_day = 4;
+$dd_day = 5;
 
 
 if(!empty($dd)) {

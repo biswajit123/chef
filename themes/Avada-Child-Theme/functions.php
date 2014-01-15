@@ -210,7 +210,7 @@ function woocommerce_process2_registration() {
 }
 //remove_action( 'template_redirect', 'woocommerce_save_address' );
 
-add_action( 'woocommerce_checkout_order_review', 'woocommerce_save_address_with_checking' );
+add_action( 'woocommerce_before_checkout_process', 'woocommerce_save_address_with_checking' );
 
 function woocommerce_save_address_with_checking() {
     global $woocommerce;
@@ -221,10 +221,14 @@ function woocommerce_save_address_with_checking() {
     $authToken = "A2OwR42/BGX/ZnI6uuagfLf2NzvFHZFUxMDae17w8Gmr0P02iEPbxpd9BbcKJlSyCGRDEvzXEA0lW8BaCNomeQ==";
 
 // Input. You can fill out any combination of the 3 values (except city only) and leave any blank
-    $street = $_POST['address'];
-    $city = $_POST['city'];
-    $state = $_POST['state'];
-    $zipcode = $_POST['postcode'];
+    $street = $_POST['billing_address_1'];
+    $city = $_POST['billing_city'];
+    $state = $_POST['billing_state'];
+    $postal_code = $zipcode = $_POST['billing_postcode'];
+
+	if(!empty($_POST['shipping_city']) && !empty($_POST['shipping_address_1']))
+		$postal_code = $_POST['shipping_postcode'];
+
 	$js = array();
 	$js[0]['street'] = $street;
 	$js[0]['city'] = $city;
@@ -255,7 +259,7 @@ function woocommerce_save_address_with_checking() {
 
 
     /* Code to Check Valid Zip Code */
-   if( !validate_zipCode( $_POST['s_postcode'] ) ) :
+   if( !validate_zipCode( $postal_code ) ) :
         $woocommerce->add_error( __( 'We are unable to provide order in this postcode/ZIP area.', 'woocommerce' ) );
     endif;
 
@@ -1504,7 +1508,7 @@ class Order_Widget extends WP_Widget {
 					</div>  		
 					<div class="next-delivery-widget">
 						<span style="font-size:23px;font-weight:bold;">Next Delivery:</span>
-						<?php $date = get_delivery_date(); $date = explode(' ', $date); $date = date('l dS M', strtotime($date[0])); ?>
+						<?php $date = get_delivery_date(); $date = explode(' ', $date); $date = date('l M dS', strtotime($date[0])); ?>
 							<div style="margin-top:5px;"><?php echo $date; ?>&nbsp;</div>					
 					</div>				   
 				</div>
