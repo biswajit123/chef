@@ -1,0 +1,40 @@
+/**
+ * Created by Soumya Das.
+ * User: biswajit
+ * Date: 9/21/13
+ * Time: 12:19 AM
+ * To change this template use File | Settings | File Templates.
+ */
+
+ul.woocommerceHelper{
+    float: none;
+    clear: left;
+    width: 100%;
+    display: table;
+    margin: 0 0 20px;
+    padding: 0;
+}
+
+ul.woocommerceHelper li{
+    padding: 10px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    text-align: center;display: table-cell;
+    width: auto;
+    float: none;
+}
+ul.woocommerceHelper li a{
+    border-bottom: none;
+}
+ul.woocommerceHelper li.active_tab a:hover{
+    color: #FFFFFF;
+}
+ul.woocommerceHelper li.active_tab{
+    background: #A0CE4E !important;
+    color: #ffffff;
+}
+form.checkout.woocommerce-content-box{
+    margin: 0 auto;
+    width: 100%;
+}

@@ -1,0 +1,5935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Avada v3.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-21 23:34+0500\n"
+"PO-Revision-Date: 2013-09-18 16:34:07+0000\n"
+"Last-Translator: Haris <info@theme-fusion.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: /Users/muhammadharis/Documents/Avada\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:6
+#@ Avada
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: 404.php:13
+#: search.php:54
+#@ Avada
+msgid "Here are some useful links:"
+msgstr ""
+
+#: 404.php:17
+#@ Avada
+msgid "Search Our Website"
+msgstr ""
+
+#: 404.php:18
+#@ Avada
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr ""
+
+#: archive-wpfc_sermon.php:35
+#: archive.php:167
+#: archive.php:169
+#: archive.php:198
+#: index.php:160
+#: index.php:162
+#: index.php:191
+#: search.php:38
+#: shortcodes.php:2306
+#: shortcodes.php:2318
+#: shortcodes.php:2383
+#: single-wpfc_sermon.php:138
+#: single.php:138
+#@ Avada
+msgid "By"
+msgstr ""
+
+#: archive-wpfc_sermon.php:35
+#: archive.php:169
+#: archive.php:198
+#: index.php:162
+#: index.php:191
+#: search.php:38
+#: shortcodes.php:2333
+#: shortcodes.php:2398
+#: single-wpfc_sermon.php:138
+#: single.php:138
+#@ Avada
+msgid "0 Comments"
+msgstr ""
+
+#: archive-wpfc_sermon.php:35
+#: archive.php:169
+#: archive.php:198
+#: index.php:162
+#: index.php:191
+#: search.php:38
+#: shortcodes.php:2333
+#: shortcodes.php:2398
+#: single-wpfc_sermon.php:138
+#: single.php:138
+#@ Avada
+msgid "1 Comment"
+msgstr ""
+
+#: archive-wpfc_sermon.php:35
+#: archive.php:169
+#: archive.php:198
+#: comments.php:18
+#: index.php:162
+#: index.php:191
+#: search.php:38
+#: shortcodes.php:1004
+#: shortcodes.php:1111
+#: shortcodes.php:1177
+#: shortcodes.php:2333
+#: shortcodes.php:2398
+#: single-wpfc_sermon.php:138
+#: single.php:138
+#@ Avada
+msgid "Comments"
+msgstr ""
+
+#: archive-wpfc_sermon.php:38
+#: archive.php:189
+#: archive.php:202
+#: index.php:182
+#: index.php:195
+#: search.php:41
+#: shortcodes.php:2368
+#: shortcodes.php:2405
+#: woocommerce/loop/add-to-cart.php:17
+#: woocommerce/loop/add-to-cart.php:41
+#: woocommerce/loop/add-to-cart.php:50
+#@ Avada
+#@ woocommerce
+msgid "Read More"
+msgstr ""
+
+#: archive.php:193
+#: index.php:186
+#: shortcodes.php:2375
+#@ Avada
+msgid "0"
+msgstr ""
+
+#: archive.php:193
+#: index.php:186
+#: shortcodes.php:2375
+#@ Avada
+msgid "1"
+msgstr ""
+
+#: comments.php:7
+#@ Avada
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18
+#@ Avada
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:18
+#@ Avada
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:37
+#@ Avada
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:47
+#@ Avada
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:53
+#, php-format
+#@ Avada
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: comments.php:60
+#@ Avada
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:60
+#@ Avada
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:60
+#@ Avada
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:64
+#: comments.php:90
+#@ Avada
+msgid "Comment..."
+msgstr ""
+
+#: comments.php:70
+#: comments.php:96
+#@ Avada
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:80
+#: contact.php:103
+#@ Avada
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:82
+#: contact.php:105
+#@ Avada
+msgid "Email (required)"
+msgstr ""
+
+#: comments.php:84
+#@ Avada
+msgid "Website"
+msgstr ""
+
+#: contact.php:90
+#@ Avada
+msgid "Please check if you've filled all the fields with valid information. Thank you."
+msgstr ""
+
+#: contact.php:95
+#@ Avada
+msgid "Thank you"
+msgstr ""
+
+#: contact.php:95
+#@ Avada
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr ""
+
+#: contact.php:107
+#@ Avada
+msgid "Subject"
+msgstr ""
+
+#: contact.php:113
+#@ Avada
+msgid "Message"
+msgstr ""
+
+#: contact.php:129
+#@ Avada
+msgid "Submit Form"
+msgstr ""
+
+#: faqs.php:39
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings-api.php:161
+#: portfolio-four-column-text.php:77
+#: portfolio-four-column.php:77
+#: portfolio-grid.php:82
+#: portfolio-one-column-text.php:77
+#: portfolio-one-column.php:77
+#: portfolio-three-column-text.php:77
+#: portfolio-three-column.php:77
+#: portfolio-two-column-text.php:77
+#: portfolio-two-column.php:77
+#: shortcodes.php:1335
+#: shortcodes.php:1447
+#@ Avada
+#@ wooslider
+msgid "All"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:155
+#: functions.php:153
+#@ tgmpa
+#@ Avada
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:156
+#: functions.php:154
+#@ tgmpa
+#@ Avada
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:157
+#: functions.php:155
+#, php-format
+#@ tgmpa
+#@ Avada
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:156
+#@ Avada
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:169
+#: functions.php:167
+#@ tgmpa
+#@ Avada
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:171
+#: framework/class-tgm-plugin-activation.php:1840
+#: functions.php:168
+#@ tgmpa
+#@ Avada
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:169
+#, php-format
+#@ Avada
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:327
+#, php-format
+#@ Avada
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:327
+#@ Avada
+msgid " - Edit"
+msgstr ""
+
+#: functions.php:327
+#@ Avada
+msgid " - Reply"
+msgstr ""
+
+#: functions.php:332
+#@ Avada
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:422
+#@ Avada
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:758
+#: functions.php:760
+#: functions.php:761
+#: functions.php:762
+#: functions.php:763
+#: functions.php:764
+#@ Avada
+msgid "Sort by"
+msgstr ""
+
+#: functions.php:758
+#: functions.php:760
+#@ Avada
+msgid "Default Order"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:32
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:455
+#: functions.php:761
+#: woocommerce/single-product-reviews.php:84
+#@ LayerSlider
+#@ wooslider
+#@ Avada
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: functions.php:762
+#: woocommerce/cart/cart.php:30
+#@ Avada
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: functions.php:763
+#: woocommerce/myaccount/my-account.php:42
+#: woocommerce/myaccount/my-orders.php:39
+#@ Avada
+#@ woocommerce
+msgid "Date"
+msgstr ""
+
+#: functions.php:764
+#: woocommerce/single-product-reviews.php:96
+#@ Avada
+#@ woocommerce
+msgid "Rating"
+msgstr ""
+
+#: functions.php:783
+#: functions.php:785
+#: functions.php:786
+#: functions.php:787
+#@ Avada
+msgid "Show"
+msgstr ""
+
+#: functions.php:783
+#@ Avada
+msgid " Products"
+msgstr ""
+
+#: functions.php:785
+#: functions.php:786
+#: functions.php:787
+#@ Avada
+msgid "Products"
+msgstr ""
+
+#: framework/headers/header-menu.php:39
+#: functions.php:920
+#@ Avada
+msgid "Cart"
+msgstr ""
+
+#: framework/headers/header-menu.php:41
+#: functions.php:922
+#@ Avada
+msgid "Item(s)"
+msgstr ""
+
+#: framework/headers/header-main-menu.php:62
+#: framework/headers/header-menu.php:55
+#: framework/headers/sticky-header.php:66
+#: functions.php:936
+#: functions.php:965
+#@ Avada
+msgid "View Cart"
+msgstr ""
+
+#: framework/headers/header-main-menu.php:63
+#: framework/headers/header-menu.php:56
+#: framework/headers/sticky-header.php:67
+#: functions.php:937
+#: functions.php:966
+#@ Avada
+msgid "Checkout"
+msgstr ""
+
+#: header.php:2456
+#@ Avada
+msgid "Search results for:"
+msgstr ""
+
+#: header.php:2472
+#@ Avada
+msgid "Error 404 Page"
+msgstr ""
+
+#: header.php:2483
+#: header.php:2551
+#, php-format
+#@ Avada
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: header.php:2485
+#: header.php:2553
+#, php-format
+#@ Avada
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: header.php:2487
+#: header.php:2555
+#, php-format
+#@ Avada
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: portfolio-one-column-text.php:174
+#: portfolio-one-column.php:174
+#: shortcodes.php:1555
+#@ Avada
+msgid "Learn More"
+msgstr ""
+
+#: portfolio-one-column-text.php:176
+#: portfolio-one-column.php:176
+#: shortcodes.php:1557
+#@ Avada
+msgid "View Project"
+msgstr ""
+
+#: product-searchform.php:3
+#: searchform.php:3
+#@ Avada
+msgid "Search ..."
+msgstr ""
+
+#: search.php:50
+#@ Avada
+msgid "Oops!"
+msgstr ""
+
+#: search.php:51
+#@ Avada
+msgid "Couldn't find what you're looking for!"
+msgstr ""
+
+#: search.php:58
+#@ Avada
+msgid "Try again!"
+msgstr ""
+
+#: search.php:59
+#@ Avada
+msgid "If you want to rephrase your query, here is your chance:"
+msgstr ""
+
+#: framework/custom_functions.php:74
+#: framework/plugins/tf-flexslider/classes/class-wooslider-frontend.php:173
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:146
+#: shortcodes.php:2454
+#: single-avada_portfolio.php:67
+#: single-avada_portfolio.php:69
+#: single-avada_portfolio.php:81
+#: single-wpfc_sermon.php:29
+#: single.php:29
+#@ Avada
+#@ wooslider
+msgid "Previous"
+msgstr ""
+
+#: framework/custom_functions.php:84
+#: framework/plugins/tf-flexslider/classes/class-wooslider-frontend.php:174
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:154
+#: shortcodes.php:2466
+#: single-avada_portfolio.php:85
+#: single-avada_portfolio.php:87
+#: single-avada_portfolio.php:99
+#: single-wpfc_sermon.php:30
+#: single.php:30
+#@ Avada
+#@ wooslider
+msgid "Next"
+msgstr ""
+
+#: single-avada_portfolio.php:204
+#@ Avada
+msgid "Project Description"
+msgstr ""
+
+#: single-avada_portfolio.php:209
+#@ Avada
+msgid "Project Details"
+msgstr ""
+
+#: single-avada_portfolio.php:211
+#@ Avada
+msgid "Skills Needed"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:562
+#: single-avada_portfolio.php:219
+#@ wooslider
+#@ Avada
+msgid "Categories"
+msgstr ""
+
+#: single-avada_portfolio.php:227
+#@ Avada
+msgid "Project URL"
+msgstr ""
+
+#: single-avada_portfolio.php:233
+#@ Avada
+msgid "Copyright"
+msgstr ""
+
+#: single-avada_portfolio.php:243
+#@ Avada
+msgid "Related Projects"
+msgstr ""
+
+#: single-wpfc_sermon.php:144
+#: single.php:144
+#@ Avada
+msgid "Share This Story, Choose Your Platform!"
+msgstr ""
+
+#: single-wpfc_sermon.php:247
+#: single.php:249
+#@ Avada
+msgid "About the Author:"
+msgstr ""
+
+#: single-wpfc_sermon.php:263
+#: single.php:265
+#@ Avada
+msgid "Related Posts"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:458
+#@ optionsframework
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#@ optionsframework
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+#@ optionsframework
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#: framework/plugins/LayerSlider/add.php:261
+#: framework/plugins/LayerSlider/add.php:1226
+#: framework/plugins/LayerSlider/edit.php:265
+#: framework/plugins/LayerSlider/edit.php:1248
+#@ optionsframework
+#@ LayerSlider
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1293
+#: framework/plugins/LayerSlider/add.php:352
+#: framework/plugins/LayerSlider/add.php:418
+#: framework/plugins/LayerSlider/add.php:1317
+#: framework/plugins/LayerSlider/add.php:1384
+#: framework/plugins/LayerSlider/builder.php:476
+#: framework/plugins/LayerSlider/builder.php:1030
+#: framework/plugins/LayerSlider/edit.php:356
+#: framework/plugins/LayerSlider/edit.php:423
+#: framework/plugins/LayerSlider/edit.php:1340
+#: framework/plugins/LayerSlider/edit.php:1407
+#@ tgmpa
+#@ LayerSlider
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1294
+#: woocommerce/myaccount/my-account.php:43
+#: woocommerce/myaccount/my-orders.php:40
+#@ tgmpa
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1950
+#: framework/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1950
+#: framework/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/custom_functions.php:110
+#: woocommerce/shop/breadcrumb.php:29
+#@ Avada
+msgid "Home"
+msgstr ""
+
+#: framework/custom_functions.php:170
+#@ Avada
+msgid "404 - Page not Found"
+msgstr ""
+
+#: framework/custom_functions.php:171
+#@ Avada
+msgid "Search"
+msgstr ""
+
+#: framework/headers/header-main-menu.php:20
+#: framework/headers/header-menu.php:13
+#: framework/headers/sticky-header.php:24
+#: woocommerce/myaccount/form-login.php:70
+#@ Avada
+msgid "Username"
+msgstr ""
+
+#: framework/headers/header-main-menu.php:23
+#: framework/headers/header-menu.php:16
+#: framework/headers/sticky-header.php:27
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:87
+#: woocommerce/shop/form-login.php:24
+#@ Avada
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: framework/headers/header-main-menu.php:26
+#: framework/headers/header-menu.php:19
+#: framework/headers/sticky-header.php:30
+#: woocommerce/myaccount/form-login.php:42
+#@ Avada
+msgid "Remember Me"
+msgstr ""
+
+#: framework/headers/header-main-menu.php:38
+#: framework/headers/header-menu.php:31
+#: framework/headers/sticky-header.php:42
+#@ Avada
+msgid "Logout"
+msgstr ""
+
+#: framework/plugins/ambrosite-post-link-plus.php:302
+#@ ambrosite
+msgid "Previous Post"
+msgstr ""
+
+#: framework/plugins/ambrosite-post-link-plus.php:302
+#@ ambrosite
+msgid "Next Post"
+msgstr ""
+
+#: framework/plugins/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+#@ envato
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: framework/plugins/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+#@ envato
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: framework/plugins/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+#@ envato
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: framework/plugins/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+#@ envato
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: framework/plugins/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:280
+#@ envato
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: framework/plugins/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:291
+#@ envato
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:49
+#: framework/plugins/LayerSlider/add.php:1014
+#: framework/plugins/LayerSlider/edit.php:53
+#: framework/plugins/LayerSlider/edit.php:1031
+#@ LayerSlider
+msgid "Slide Options"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:50
+#: framework/plugins/LayerSlider/add.php:1015
+#: framework/plugins/LayerSlider/edit.php:54
+#: framework/plugins/LayerSlider/edit.php:1032
+#@ LayerSlider
+msgid "Duplicate this slide"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:61
+#: framework/plugins/LayerSlider/add.php:1026
+#: framework/plugins/LayerSlider/edit.php:65
+#: framework/plugins/LayerSlider/edit.php:1043
+#@ LayerSlider
+msgid "Slide options"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:62
+#: framework/plugins/LayerSlider/add.php:285
+#: framework/plugins/LayerSlider/add.php:1027
+#: framework/plugins/LayerSlider/add.php:1250
+#: framework/plugins/LayerSlider/edit.php:66
+#: framework/plugins/LayerSlider/edit.php:289
+#: framework/plugins/LayerSlider/edit.php:1044
+#: framework/plugins/LayerSlider/edit.php:1272
+#@ LayerSlider
+msgid "Image"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:65
+#: framework/plugins/LayerSlider/add.php:1030
+#: framework/plugins/LayerSlider/edit.php:69
+#: framework/plugins/LayerSlider/edit.php:1047
+#@ LayerSlider
+msgid "The slide image/background. Click into the field to open the WordPress Media Library to choose or upload an image."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:69
+#: framework/plugins/LayerSlider/add.php:1034
+#: framework/plugins/LayerSlider/edit.php:73
+#: framework/plugins/LayerSlider/edit.php:1051
+#@ LayerSlider
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:72
+#: framework/plugins/LayerSlider/add.php:1037
+#: framework/plugins/LayerSlider/edit.php:76
+#: framework/plugins/LayerSlider/edit.php:1054
+#@ LayerSlider
+msgid "The thumbnail image of this slide. Click into the field to open the WordPress Media Library to choose or upload an image. If you leave this field empty, the slide image will be used."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:76
+#: framework/plugins/LayerSlider/add.php:1041
+#: framework/plugins/LayerSlider/edit.php:80
+#: framework/plugins/LayerSlider/edit.php:1058
+#@ LayerSlider
+msgid "Slide delay"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:77
+#: framework/plugins/LayerSlider/add.php:1042
+#: framework/plugins/LayerSlider/edit.php:81
+#: framework/plugins/LayerSlider/edit.php:1059
+#@ LayerSlider
+msgid "Here you can set the time interval between slide changes, this slide will stay visible for the time specified here. This value is in millisecs, so the value 1000 means 1 second. Please don't use 0 or very low values."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:80
+#: framework/plugins/LayerSlider/add.php:1045
+#: framework/plugins/LayerSlider/edit.php:84
+#: framework/plugins/LayerSlider/edit.php:1062
+#@ LayerSlider
+msgid "Slide transition"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:83
+#: framework/plugins/LayerSlider/add.php:1048
+#: framework/plugins/LayerSlider/edit.php:87
+#: framework/plugins/LayerSlider/edit.php:1065
+#@ LayerSlider
+msgid "You can choose between the old and the new 3D/2D slide transitions introduced in version 4.0.0."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:87
+#: framework/plugins/LayerSlider/add.php:1052
+#: framework/plugins/LayerSlider/edit.php:91
+#: framework/plugins/LayerSlider/edit.php:1069
+#@ LayerSlider
+msgid "Transitions"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:88
+#: framework/plugins/LayerSlider/add.php:1053
+#: framework/plugins/LayerSlider/builder.php:262
+#: framework/plugins/LayerSlider/builder.php:484
+#: framework/plugins/LayerSlider/builder.php:783
+#: framework/plugins/LayerSlider/builder.php:1038
+#: framework/plugins/LayerSlider/edit.php:92
+#: framework/plugins/LayerSlider/edit.php:1070
+#@ LayerSlider
+msgid "Direction"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:91
+#: framework/plugins/LayerSlider/add.php:1056
+#: framework/plugins/LayerSlider/edit.php:95
+#: framework/plugins/LayerSlider/edit.php:1073
+#@ LayerSlider
+msgid "The slide will slide in from this direction."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:92
+#: framework/plugins/LayerSlider/add.php:1057
+#: framework/plugins/LayerSlider/edit.php:96
+#: framework/plugins/LayerSlider/edit.php:1074
+#@ LayerSlider
+msgid "top"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:93
+#: framework/plugins/LayerSlider/add.php:1058
+#: framework/plugins/LayerSlider/edit.php:97
+#: framework/plugins/LayerSlider/edit.php:1075
+#@ LayerSlider
+msgid "right"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:94
+#: framework/plugins/LayerSlider/add.php:1059
+#: framework/plugins/LayerSlider/edit.php:98
+#: framework/plugins/LayerSlider/edit.php:1076
+#@ LayerSlider
+msgid "bottom"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:95
+#: framework/plugins/LayerSlider/add.php:1060
+#: framework/plugins/LayerSlider/edit.php:99
+#: framework/plugins/LayerSlider/edit.php:1077
+#@ LayerSlider
+msgid "left"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:97
+#: framework/plugins/LayerSlider/add.php:1062
+#: framework/plugins/LayerSlider/edit.php:101
+#: framework/plugins/LayerSlider/edit.php:1079
+#@ LayerSlider
+msgid "You can select your desired slide transitions by clicking on this button."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:99
+#: framework/plugins/LayerSlider/add.php:1064
+#: framework/plugins/LayerSlider/edit.php:103
+#: framework/plugins/LayerSlider/edit.php:1081
+#@ LayerSlider
+msgid "Time shift"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:100
+#@ LayerSlider
+msgid "You can control here the timing of the layer animations  when the slider changes to this slider with a 3D/2D transition. Zero means that the layers of this slide will animate in when the slide transition ends. You can time-shift the starting time of the layer animations with positive or negative values."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:103
+#: framework/plugins/LayerSlider/add.php:1068
+#: framework/plugins/LayerSlider/edit.php:107
+#: framework/plugins/LayerSlider/edit.php:1085
+#@ LayerSlider
+msgid "Slide in"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:104
+#: framework/plugins/LayerSlider/add.php:148
+#: framework/plugins/LayerSlider/add.php:363
+#: framework/plugins/LayerSlider/add.php:429
+#: framework/plugins/LayerSlider/add.php:1069
+#: framework/plugins/LayerSlider/add.php:1113
+#: framework/plugins/LayerSlider/add.php:1328
+#: framework/plugins/LayerSlider/add.php:1395
+#: framework/plugins/LayerSlider/builder.php:169
+#: framework/plugins/LayerSlider/builder.php:226
+#: framework/plugins/LayerSlider/builder.php:305
+#: framework/plugins/LayerSlider/builder.php:435
+#: framework/plugins/LayerSlider/builder.php:677
+#: framework/plugins/LayerSlider/builder.php:747
+#: framework/plugins/LayerSlider/builder.php:835
+#: framework/plugins/LayerSlider/builder.php:989
+#: framework/plugins/LayerSlider/edit.php:108
+#: framework/plugins/LayerSlider/edit.php:152
+#: framework/plugins/LayerSlider/edit.php:367
+#: framework/plugins/LayerSlider/edit.php:434
+#: framework/plugins/LayerSlider/edit.php:1086
+#: framework/plugins/LayerSlider/edit.php:1130
+#: framework/plugins/LayerSlider/edit.php:1351
+#: framework/plugins/LayerSlider/edit.php:1418
+#@ LayerSlider
+msgid "Duration"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:105
+#: framework/plugins/LayerSlider/add.php:1070
+#: framework/plugins/LayerSlider/edit.php:109
+#: framework/plugins/LayerSlider/edit.php:1087
+#@ LayerSlider
+msgid "The duration of the slide in animation. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:106
+#: framework/plugins/LayerSlider/add.php:150
+#: framework/plugins/LayerSlider/add.php:365
+#: framework/plugins/LayerSlider/add.php:431
+#: framework/plugins/LayerSlider/add.php:1071
+#: framework/plugins/LayerSlider/add.php:1115
+#: framework/plugins/LayerSlider/add.php:1330
+#: framework/plugins/LayerSlider/add.php:1397
+#: framework/plugins/LayerSlider/builder.php:171
+#: framework/plugins/LayerSlider/builder.php:228
+#: framework/plugins/LayerSlider/builder.php:307
+#: framework/plugins/LayerSlider/builder.php:437
+#: framework/plugins/LayerSlider/builder.php:679
+#: framework/plugins/LayerSlider/builder.php:749
+#: framework/plugins/LayerSlider/builder.php:837
+#: framework/plugins/LayerSlider/builder.php:991
+#: framework/plugins/LayerSlider/edit.php:110
+#: framework/plugins/LayerSlider/edit.php:154
+#: framework/plugins/LayerSlider/edit.php:369
+#: framework/plugins/LayerSlider/edit.php:436
+#: framework/plugins/LayerSlider/edit.php:1088
+#: framework/plugins/LayerSlider/edit.php:1132
+#: framework/plugins/LayerSlider/edit.php:1353
+#: framework/plugins/LayerSlider/edit.php:1420
+#@ LayerSlider
+msgid "Easing"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:108
+#: framework/plugins/LayerSlider/add.php:152
+#: framework/plugins/LayerSlider/add.php:1073
+#: framework/plugins/LayerSlider/add.php:1117
+#: framework/plugins/LayerSlider/edit.php:112
+#: framework/plugins/LayerSlider/edit.php:156
+#: framework/plugins/LayerSlider/edit.php:1090
+#: framework/plugins/LayerSlider/edit.php:1134
+#@ LayerSlider
+msgid "The timing function of the animation, with it you can manipualte the slide movement. Please click on the link next to this select field to open easings.net for more information and real-time examples."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:143
+#: framework/plugins/LayerSlider/add.php:1108
+#: framework/plugins/LayerSlider/edit.php:147
+#: framework/plugins/LayerSlider/edit.php:1125
+#@ LayerSlider
+msgid "Delay in"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:144
+#: framework/plugins/LayerSlider/add.php:1109
+#: framework/plugins/LayerSlider/edit.php:148
+#: framework/plugins/LayerSlider/edit.php:1126
+#@ LayerSlider
+msgid "Delay before the animation start when the slide slides in. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:147
+#: framework/plugins/LayerSlider/add.php:1112
+#: framework/plugins/LayerSlider/edit.php:151
+#: framework/plugins/LayerSlider/edit.php:1129
+#@ LayerSlider
+msgid "Slide out"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:149
+#: framework/plugins/LayerSlider/add.php:1114
+#: framework/plugins/LayerSlider/edit.php:153
+#: framework/plugins/LayerSlider/edit.php:1131
+#@ LayerSlider
+msgid "The duration of the slide out animation. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:187
+#: framework/plugins/LayerSlider/add.php:1152
+#: framework/plugins/LayerSlider/edit.php:191
+#: framework/plugins/LayerSlider/edit.php:1169
+#@ LayerSlider
+msgid "Delay out"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:188
+#: framework/plugins/LayerSlider/add.php:1153
+#: framework/plugins/LayerSlider/edit.php:192
+#: framework/plugins/LayerSlider/edit.php:1170
+#@ LayerSlider
+msgid "Delay before the animation start when the slide slides out. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:191
+#: framework/plugins/LayerSlider/add.php:1156
+#: framework/plugins/LayerSlider/edit.php:195
+#@ LayerSlider
+msgid "Link this slide"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:192
+#: framework/plugins/LayerSlider/add.php:1157
+#: framework/plugins/LayerSlider/edit.php:196
+#: framework/plugins/LayerSlider/edit.php:1174
+#@ LayerSlider
+msgid "Link URL"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:193
+#: framework/plugins/LayerSlider/add.php:1158
+#: framework/plugins/LayerSlider/edit.php:197
+#: framework/plugins/LayerSlider/edit.php:1175
+#@ LayerSlider
+msgid "If you want to link the whole slide, enter the URL of your link here."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:194
+#: framework/plugins/LayerSlider/add.php:1159
+#: framework/plugins/LayerSlider/edit.php:198
+#: framework/plugins/LayerSlider/edit.php:1176
+#@ LayerSlider
+msgid "Link target"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:196
+#: framework/plugins/LayerSlider/add.php:1161
+#: framework/plugins/LayerSlider/edit.php:200
+#: framework/plugins/LayerSlider/edit.php:1179
+#@ LayerSlider
+msgid "You can control here the link behaviour: _self means the linked page will open in the current tab/window, _blank will create a new tab/window."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:207
+#: framework/plugins/LayerSlider/add.php:562
+#: framework/plugins/LayerSlider/add.php:915
+#: framework/plugins/LayerSlider/add.php:1172
+#: framework/plugins/LayerSlider/add.php:1528
+#: framework/plugins/LayerSlider/edit.php:211
+#: framework/plugins/LayerSlider/edit.php:567
+#: framework/plugins/LayerSlider/edit.php:925
+#: framework/plugins/LayerSlider/edit.php:1190
+#: framework/plugins/LayerSlider/edit.php:1552
+#@ LayerSlider
+msgid "Misc"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:208
+#: framework/plugins/LayerSlider/add.php:1173
+#: framework/plugins/LayerSlider/edit.php:212
+#: framework/plugins/LayerSlider/edit.php:1191
+#@ LayerSlider
+msgid "#ID"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:209
+#: framework/plugins/LayerSlider/add.php:1174
+#: framework/plugins/LayerSlider/edit.php:213
+#: framework/plugins/LayerSlider/edit.php:1192
+#@ LayerSlider
+msgid "You can apply an ID attribute on the HTML element of this slide to work with it in your custom CSS or Javascript code."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:210
+#: framework/plugins/LayerSlider/add.php:1175
+#: framework/plugins/LayerSlider/edit.php:214
+#: framework/plugins/LayerSlider/edit.php:1193
+#@ LayerSlider
+msgid "Deeplink"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:211
+#: framework/plugins/LayerSlider/add.php:1176
+#: framework/plugins/LayerSlider/edit.php:215
+#: framework/plugins/LayerSlider/edit.php:1194
+#@ LayerSlider
+msgid "You can specify a slide alias name which you can use in your URLs with a hash mark, so LayerSlider will start with the correspondig slide."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:212
+#: framework/plugins/LayerSlider/add.php:489
+#: framework/plugins/LayerSlider/add.php:1177
+#: framework/plugins/LayerSlider/add.php:1455
+#: framework/plugins/LayerSlider/edit.php:216
+#: framework/plugins/LayerSlider/edit.php:494
+#: framework/plugins/LayerSlider/edit.php:1195
+#: framework/plugins/LayerSlider/edit.php:1478
+#@ LayerSlider
+msgid "Hidden"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:213
+#: framework/plugins/LayerSlider/add.php:1178
+#: framework/plugins/LayerSlider/edit.php:217
+#: framework/plugins/LayerSlider/edit.php:1196
+#@ LayerSlider
+msgid "If you don't want to use this slide in your front-page, but you want to keep it, you can hide it with this switch."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:222
+#: framework/plugins/LayerSlider/add.php:1187
+#: framework/plugins/LayerSlider/builder.php:93
+#: framework/plugins/LayerSlider/builder.php:375
+#: framework/plugins/LayerSlider/builder.php:595
+#: framework/plugins/LayerSlider/builder.php:927
+#: framework/plugins/LayerSlider/edit.php:226
+#: framework/plugins/LayerSlider/edit.php:1205
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:401
+#@ LayerSlider
+#@ wooslider
+msgid "Preview"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:234
+#: framework/plugins/LayerSlider/add.php:1199
+#: framework/plugins/LayerSlider/edit.php:238
+#: framework/plugins/LayerSlider/edit.php:1217
+#@ LayerSlider
+msgid "Enter Preview"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:245
+#: framework/plugins/LayerSlider/add.php:1210
+#: framework/plugins/LayerSlider/edit.php:249
+#: framework/plugins/LayerSlider/edit.php:1228
+#@ LayerSlider
+msgid "Layers"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:260
+#: framework/plugins/LayerSlider/add.php:648
+#: framework/plugins/LayerSlider/add.php:1225
+#: framework/plugins/LayerSlider/edit.php:264
+#: framework/plugins/LayerSlider/edit.php:653
+#: framework/plugins/LayerSlider/edit.php:1247
+#@ LayerSlider
+msgid "Basic"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:262
+#: framework/plugins/LayerSlider/add.php:1227
+#: framework/plugins/LayerSlider/edit.php:266
+#: framework/plugins/LayerSlider/edit.php:1249
+#@ LayerSlider
+msgid "Link"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:263
+#: framework/plugins/LayerSlider/add.php:1228
+#: framework/plugins/LayerSlider/edit.php:267
+#: framework/plugins/LayerSlider/edit.php:1250
+#@ LayerSlider
+msgid "Style"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:264
+#: framework/plugins/LayerSlider/add.php:582
+#: framework/plugins/LayerSlider/add.php:1229
+#: framework/plugins/LayerSlider/add.php:1548
+#: framework/plugins/LayerSlider/edit.php:268
+#: framework/plugins/LayerSlider/edit.php:587
+#: framework/plugins/LayerSlider/edit.php:1251
+#: framework/plugins/LayerSlider/edit.php:1572
+#@ LayerSlider
+msgid "Attributes"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:265
+#: framework/plugins/LayerSlider/add.php:1230
+#: framework/plugins/LayerSlider/edit.php:269
+#@ LayerSlider
+msgid "Remove this layer"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:290
+#: framework/plugins/LayerSlider/add.php:1255
+#: framework/plugins/LayerSlider/edit.php:294
+#: framework/plugins/LayerSlider/edit.php:1277
+#@ LayerSlider
+msgid "Div / Video"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:295
+#: framework/plugins/LayerSlider/add.php:1260
+#: framework/plugins/LayerSlider/edit.php:299
+#: framework/plugins/LayerSlider/edit.php:1282
+#@ LayerSlider
+msgid "Paragraph"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:300
+#: framework/plugins/LayerSlider/add.php:1265
+#: framework/plugins/LayerSlider/edit.php:304
+#: framework/plugins/LayerSlider/edit.php:1287
+#@ LayerSlider
+msgid "Span"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:305
+#: framework/plugins/LayerSlider/add.php:1270
+#: framework/plugins/LayerSlider/edit.php:309
+#: framework/plugins/LayerSlider/edit.php:1292
+#@ LayerSlider
+msgid "H1"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:310
+#: framework/plugins/LayerSlider/add.php:1275
+#: framework/plugins/LayerSlider/edit.php:314
+#: framework/plugins/LayerSlider/edit.php:1297
+#@ LayerSlider
+msgid "H2"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:315
+#: framework/plugins/LayerSlider/add.php:1280
+#: framework/plugins/LayerSlider/edit.php:319
+#: framework/plugins/LayerSlider/edit.php:1302
+#@ LayerSlider
+msgid "H3"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:320
+#: framework/plugins/LayerSlider/add.php:1285
+#: framework/plugins/LayerSlider/edit.php:324
+#: framework/plugins/LayerSlider/edit.php:1307
+#@ LayerSlider
+msgid "H4"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:325
+#: framework/plugins/LayerSlider/add.php:1290
+#: framework/plugins/LayerSlider/edit.php:329
+#: framework/plugins/LayerSlider/edit.php:1312
+#@ LayerSlider
+msgid "H5"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:330
+#: framework/plugins/LayerSlider/add.php:1295
+#: framework/plugins/LayerSlider/edit.php:334
+#: framework/plugins/LayerSlider/edit.php:1317
+#@ LayerSlider
+msgid "H6"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:338
+#: framework/plugins/LayerSlider/add.php:1303
+#: framework/plugins/LayerSlider/edit.php:342
+#: framework/plugins/LayerSlider/edit.php:1326
+#@ LayerSlider
+msgid "Click into this text field to open WordPress Media Library where you can upload new images or select previously used ones."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:343
+#: framework/plugins/LayerSlider/add.php:1308
+#: framework/plugins/LayerSlider/edit.php:347
+#: framework/plugins/LayerSlider/edit.php:1331
+#@ LayerSlider
+msgid "Custom HTML content"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:344
+#: framework/plugins/LayerSlider/add.php:1309
+#: framework/plugins/LayerSlider/edit.php:348
+#: framework/plugins/LayerSlider/edit.php:1332
+#@ LayerSlider
+msgid "Type here the contents of your layer. You can use any HTML codes in this field to insert other contents then text. This field is also shortcode-aware, so you can insert content from other plugins as well as video embed codes."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:351
+#: framework/plugins/LayerSlider/add.php:1316
+#: framework/plugins/LayerSlider/edit.php:355
+#: framework/plugins/LayerSlider/edit.php:1339
+#@ LayerSlider
+msgid "Transition in"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:354
+#: framework/plugins/LayerSlider/add.php:420
+#: framework/plugins/LayerSlider/add.php:1319
+#: framework/plugins/LayerSlider/add.php:1386
+#: framework/plugins/LayerSlider/edit.php:358
+#: framework/plugins/LayerSlider/edit.php:425
+#: framework/plugins/LayerSlider/edit.php:1342
+#: framework/plugins/LayerSlider/edit.php:1409
+#@ LayerSlider
+msgid "The type of the transition."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:355
+#: framework/plugins/LayerSlider/add.php:421
+#: framework/plugins/LayerSlider/add.php:1320
+#: framework/plugins/LayerSlider/add.php:1387
+#: framework/plugins/LayerSlider/builder.php:480
+#: framework/plugins/LayerSlider/builder.php:1034
+#: framework/plugins/LayerSlider/edit.php:359
+#: framework/plugins/LayerSlider/edit.php:426
+#: framework/plugins/LayerSlider/edit.php:1343
+#: framework/plugins/LayerSlider/edit.php:1410
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:108
+#@ LayerSlider
+#@ wooslider
+msgid "Fade"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:356
+#: framework/plugins/LayerSlider/add.php:1321
+#: framework/plugins/LayerSlider/edit.php:360
+#: framework/plugins/LayerSlider/edit.php:1344
+#@ LayerSlider
+msgid "Auto (Slide from auto direction)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:357
+#: framework/plugins/LayerSlider/add.php:1322
+#: framework/plugins/LayerSlider/edit.php:361
+#: framework/plugins/LayerSlider/edit.php:1345
+#@ LayerSlider
+msgid "Top (Slide from top)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:358
+#: framework/plugins/LayerSlider/add.php:1323
+#: framework/plugins/LayerSlider/edit.php:362
+#: framework/plugins/LayerSlider/edit.php:1346
+#@ LayerSlider
+msgid "Right (Slide from right)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:359
+#: framework/plugins/LayerSlider/add.php:1324
+#: framework/plugins/LayerSlider/edit.php:363
+#: framework/plugins/LayerSlider/edit.php:1347
+#@ LayerSlider
+msgid "Bottom (Slide from bottom)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:360
+#: framework/plugins/LayerSlider/add.php:1325
+#: framework/plugins/LayerSlider/edit.php:364
+#: framework/plugins/LayerSlider/edit.php:1348
+#@ LayerSlider
+msgid "Left (Slide from left)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:364
+#: framework/plugins/LayerSlider/add.php:1329
+#: framework/plugins/LayerSlider/edit.php:368
+#: framework/plugins/LayerSlider/edit.php:1352
+#@ LayerSlider
+msgid "The duration of the slide in animation. This value is in millisecs, so the value 1000 means 1 second. Lower values results faster animations."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:367
+#: framework/plugins/LayerSlider/add.php:433
+#: framework/plugins/LayerSlider/add.php:1332
+#: framework/plugins/LayerSlider/add.php:1399
+#: framework/plugins/LayerSlider/edit.php:371
+#: framework/plugins/LayerSlider/edit.php:438
+#: framework/plugins/LayerSlider/edit.php:1355
+#: framework/plugins/LayerSlider/edit.php:1422
+#@ LayerSlider
+msgid "The timing function of the animation, with it you can manipualte the layer movement. Please click on the link next to this select field to open easings.net for more information and real-time examples."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:402
+#: framework/plugins/LayerSlider/add.php:468
+#: framework/plugins/LayerSlider/add.php:1367
+#: framework/plugins/LayerSlider/add.php:1434
+#: framework/plugins/LayerSlider/builder.php:132
+#: framework/plugins/LayerSlider/builder.php:211
+#: framework/plugins/LayerSlider/builder.php:287
+#: framework/plugins/LayerSlider/builder.php:347
+#: framework/plugins/LayerSlider/builder.php:414
+#: framework/plugins/LayerSlider/builder.php:636
+#: framework/plugins/LayerSlider/builder.php:732
+#: framework/plugins/LayerSlider/builder.php:813
+#: framework/plugins/LayerSlider/builder.php:890
+#: framework/plugins/LayerSlider/builder.php:968
+#: framework/plugins/LayerSlider/edit.php:406
+#: framework/plugins/LayerSlider/edit.php:473
+#: framework/plugins/LayerSlider/edit.php:1390
+#: framework/plugins/LayerSlider/edit.php:1457
+#@ LayerSlider
+msgid "Delay"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:403
+#: framework/plugins/LayerSlider/add.php:1368
+#: framework/plugins/LayerSlider/edit.php:407
+#: framework/plugins/LayerSlider/edit.php:1391
+#@ LayerSlider
+msgid "Delay before the animation start when the layer slides in. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:406
+#: framework/plugins/LayerSlider/add.php:473
+#: framework/plugins/LayerSlider/add.php:1372
+#: framework/plugins/LayerSlider/add.php:1439
+#: framework/plugins/LayerSlider/edit.php:411
+#: framework/plugins/LayerSlider/edit.php:478
+#: framework/plugins/LayerSlider/edit.php:1395
+#: framework/plugins/LayerSlider/edit.php:1462
+#@ LayerSlider
+msgid "Rotation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:408
+#: framework/plugins/LayerSlider/add.php:475
+#: framework/plugins/LayerSlider/add.php:1374
+#: framework/plugins/LayerSlider/add.php:1441
+#: framework/plugins/LayerSlider/builder.php:508
+#: framework/plugins/LayerSlider/builder.php:1062
+#: framework/plugins/LayerSlider/edit.php:413
+#: framework/plugins/LayerSlider/edit.php:480
+#: framework/plugins/LayerSlider/edit.php:1397
+#: framework/plugins/LayerSlider/edit.php:1464
+#@ LayerSlider
+msgid "Scale"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:417
+#: framework/plugins/LayerSlider/add.php:1383
+#: framework/plugins/LayerSlider/edit.php:422
+#: framework/plugins/LayerSlider/edit.php:1406
+#@ LayerSlider
+msgid "Transition out"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:422
+#: framework/plugins/LayerSlider/add.php:1388
+#: framework/plugins/LayerSlider/edit.php:427
+#: framework/plugins/LayerSlider/edit.php:1411
+#@ LayerSlider
+msgid "Auto (Slide to auto direction)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:423
+#: framework/plugins/LayerSlider/add.php:1389
+#: framework/plugins/LayerSlider/edit.php:428
+#: framework/plugins/LayerSlider/edit.php:1412
+#@ LayerSlider
+msgid "Top (Slide to top)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:424
+#: framework/plugins/LayerSlider/add.php:1390
+#: framework/plugins/LayerSlider/edit.php:429
+#: framework/plugins/LayerSlider/edit.php:1413
+#@ LayerSlider
+msgid "Right (Slide to right)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:425
+#: framework/plugins/LayerSlider/add.php:1391
+#: framework/plugins/LayerSlider/edit.php:430
+#: framework/plugins/LayerSlider/edit.php:1414
+#@ LayerSlider
+msgid "Bottom (Slide to bottom)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:426
+#: framework/plugins/LayerSlider/add.php:1392
+#: framework/plugins/LayerSlider/edit.php:431
+#: framework/plugins/LayerSlider/edit.php:1415
+#@ LayerSlider
+msgid "Left (Slide to left)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:430
+#: framework/plugins/LayerSlider/add.php:1396
+#: framework/plugins/LayerSlider/edit.php:435
+#: framework/plugins/LayerSlider/edit.php:1419
+#@ LayerSlider
+msgid "The duration of the slide out animation. This value is in millisecs, so the value 1000 means 1 second. Lower values results faster animations."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:469
+#: framework/plugins/LayerSlider/add.php:1435
+#: framework/plugins/LayerSlider/edit.php:474
+#: framework/plugins/LayerSlider/edit.php:1458
+#@ LayerSlider
+msgid "Delay before the animation start when the layer slides out. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:484
+#: framework/plugins/LayerSlider/add.php:1450
+#: framework/plugins/LayerSlider/edit.php:489
+#: framework/plugins/LayerSlider/edit.php:1473
+#@ LayerSlider
+msgid "Other options"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:485
+#: framework/plugins/LayerSlider/add.php:1451
+#: framework/plugins/LayerSlider/edit.php:490
+#: framework/plugins/LayerSlider/edit.php:1474
+#@ LayerSlider
+msgid "Distance"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:486
+#: framework/plugins/LayerSlider/add.php:1452
+#: framework/plugins/LayerSlider/edit.php:491
+#: framework/plugins/LayerSlider/edit.php:1475
+#@ LayerSlider
+msgid "The default value is -1 which means that the layer will be positioned exactly outside of the slide container. You can use the default setting in most of the cases. If you need to set the start or end position of the layer from further of the edges of the slide container, you can use 2, 3 or higher values."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:487
+#: framework/plugins/LayerSlider/add.php:1453
+#: framework/plugins/LayerSlider/edit.php:492
+#: framework/plugins/LayerSlider/edit.php:1476
+#@ LayerSlider
+msgid "Show until"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:488
+#: framework/plugins/LayerSlider/add.php:1454
+#: framework/plugins/LayerSlider/edit.php:493
+#: framework/plugins/LayerSlider/edit.php:1477
+#@ LayerSlider
+msgid "The layer will be visible for the time you specify here, then it will slide out. You can use this setting for layers to leave the slide before the slide itself animates out, or for example before other layers will slide in. This value in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:490
+#: framework/plugins/LayerSlider/add.php:1456
+#: framework/plugins/LayerSlider/edit.php:495
+#: framework/plugins/LayerSlider/edit.php:1479
+#@ LayerSlider
+msgid "If you don't want to use this layer, but you want to keep it, you can hide it with this switch."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:491
+#: framework/plugins/LayerSlider/add.php:1457
+#: framework/plugins/LayerSlider/edit.php:496
+#: framework/plugins/LayerSlider/edit.php:1480
+#@ LayerSlider
+msgid "If you will use similar settings for other layers or you want to experiment on a copy, you can duplicate this layer."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:491
+#: framework/plugins/LayerSlider/add.php:1457
+#: framework/plugins/LayerSlider/edit.php:496
+#: framework/plugins/LayerSlider/edit.php:1480
+#@ LayerSlider
+msgid "Duplicate this layer"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:499
+#: framework/plugins/LayerSlider/add.php:1465
+#: framework/plugins/LayerSlider/edit.php:504
+#: framework/plugins/LayerSlider/edit.php:1488
+#@ LayerSlider
+msgid "URL"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:500
+#: framework/plugins/LayerSlider/add.php:1466
+#: framework/plugins/LayerSlider/edit.php:505
+#: framework/plugins/LayerSlider/edit.php:1489
+#@ LayerSlider
+msgid "If you want to link your layer, type here the URL. You can use a hash mark followed by a number to link this layer to another slide. Example: #3 - this will switch to the third slide."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:502
+#: framework/plugins/LayerSlider/add.php:1468
+#: framework/plugins/LayerSlider/edit.php:507
+#: framework/plugins/LayerSlider/edit.php:1491
+#@ LayerSlider
+msgid "You can control here the link behaviour: _self means the linked page will open in the current tab/window, _blank will open it in a new tab/window."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:518
+#: framework/plugins/LayerSlider/add.php:1484
+#: framework/plugins/LayerSlider/edit.php:523
+#: framework/plugins/LayerSlider/edit.php:1508
+#@ LayerSlider
+msgid "Layout & Positions"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:519
+#: framework/plugins/LayerSlider/add.php:654
+#: framework/plugins/LayerSlider/add.php:1485
+#: framework/plugins/LayerSlider/edit.php:524
+#: framework/plugins/LayerSlider/edit.php:1509
+#@ LayerSlider
+msgid "Width"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:520
+#: framework/plugins/LayerSlider/add.php:1486
+#: framework/plugins/LayerSlider/edit.php:525
+#: framework/plugins/LayerSlider/edit.php:1510
+#, php-format
+#@ LayerSlider
+msgid "You can set the width of your layer. You can use pixels, percents, or the default value 'auto'. Examples: 100px, 50% or auto"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:521
+#: framework/plugins/LayerSlider/add.php:659
+#: framework/plugins/LayerSlider/add.php:1487
+#: framework/plugins/LayerSlider/edit.php:526
+#: framework/plugins/LayerSlider/edit.php:1511
+#@ LayerSlider
+msgid "Height"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:522
+#: framework/plugins/LayerSlider/add.php:1488
+#: framework/plugins/LayerSlider/edit.php:527
+#: framework/plugins/LayerSlider/edit.php:1512
+#, php-format
+#@ LayerSlider
+msgid "You can set the height of your layer. You can use pixels, percents, or the default value 'auto'. Examples: 100px, 50% or auto"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:523
+#: framework/plugins/LayerSlider/add.php:530
+#: framework/plugins/LayerSlider/add.php:541
+#: framework/plugins/LayerSlider/add.php:1489
+#: framework/plugins/LayerSlider/add.php:1496
+#: framework/plugins/LayerSlider/add.php:1507
+#: framework/plugins/LayerSlider/builder.php:487
+#: framework/plugins/LayerSlider/builder.php:1041
+#: framework/plugins/LayerSlider/edit.php:528
+#: framework/plugins/LayerSlider/edit.php:535
+#: framework/plugins/LayerSlider/edit.php:546
+#: framework/plugins/LayerSlider/edit.php:1513
+#: framework/plugins/LayerSlider/edit.php:1520
+#: framework/plugins/LayerSlider/edit.php:1531
+#@ LayerSlider
+msgid "Top"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:524
+#: framework/plugins/LayerSlider/add.php:1490
+#: framework/plugins/LayerSlider/edit.php:529
+#: framework/plugins/LayerSlider/edit.php:1514
+#@ LayerSlider
+msgid "The layer position from the top of the slide. You can use pixels and percents. Examples: 100px or 50%. You can move your layers in the preview above with a drag n' drop, or set the exact values here."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:525
+#: framework/plugins/LayerSlider/add.php:536
+#: framework/plugins/LayerSlider/add.php:547
+#: framework/plugins/LayerSlider/add.php:1491
+#: framework/plugins/LayerSlider/add.php:1502
+#: framework/plugins/LayerSlider/add.php:1513
+#: framework/plugins/LayerSlider/builder.php:490
+#: framework/plugins/LayerSlider/builder.php:1044
+#: framework/plugins/LayerSlider/edit.php:530
+#: framework/plugins/LayerSlider/edit.php:541
+#: framework/plugins/LayerSlider/edit.php:552
+#: framework/plugins/LayerSlider/edit.php:1515
+#: framework/plugins/LayerSlider/edit.php:1526
+#: framework/plugins/LayerSlider/edit.php:1537
+#@ LayerSlider
+msgid "Left"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:526
+#: framework/plugins/LayerSlider/add.php:1492
+#: framework/plugins/LayerSlider/edit.php:531
+#: framework/plugins/LayerSlider/edit.php:1516
+#@ LayerSlider
+msgid "The layer position from the left side of the slide. You can use pixels and percents. Examples: 100px or 50%. You can move your layers in the preview above with a drag n' drop, or set the exact values here."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:529
+#: framework/plugins/LayerSlider/add.php:1495
+#: framework/plugins/LayerSlider/edit.php:534
+#: framework/plugins/LayerSlider/edit.php:1519
+#@ LayerSlider
+msgid "Padding"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:531
+#: framework/plugins/LayerSlider/add.php:1497
+#: framework/plugins/LayerSlider/edit.php:536
+#: framework/plugins/LayerSlider/edit.php:1521
+#@ LayerSlider
+msgid "Padding on the top of the layer. Example: 10px"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:532
+#: framework/plugins/LayerSlider/add.php:543
+#: framework/plugins/LayerSlider/add.php:1498
+#: framework/plugins/LayerSlider/add.php:1509
+#: framework/plugins/LayerSlider/builder.php:488
+#: framework/plugins/LayerSlider/builder.php:1042
+#: framework/plugins/LayerSlider/edit.php:537
+#: framework/plugins/LayerSlider/edit.php:548
+#: framework/plugins/LayerSlider/edit.php:1522
+#: framework/plugins/LayerSlider/edit.php:1533
+#@ LayerSlider
+msgid "Right"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:533
+#: framework/plugins/LayerSlider/add.php:1499
+#: framework/plugins/LayerSlider/edit.php:538
+#: framework/plugins/LayerSlider/edit.php:1523
+#@ LayerSlider
+msgid "Padding on the right side of the layer. Example: 10px"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:534
+#: framework/plugins/LayerSlider/add.php:545
+#: framework/plugins/LayerSlider/add.php:1500
+#: framework/plugins/LayerSlider/add.php:1511
+#: framework/plugins/LayerSlider/builder.php:489
+#: framework/plugins/LayerSlider/builder.php:1043
+#: framework/plugins/LayerSlider/edit.php:539
+#: framework/plugins/LayerSlider/edit.php:550
+#: framework/plugins/LayerSlider/edit.php:1524
+#: framework/plugins/LayerSlider/edit.php:1535
+#@ LayerSlider
+msgid "Bottom"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:535
+#: framework/plugins/LayerSlider/add.php:1501
+#: framework/plugins/LayerSlider/edit.php:540
+#: framework/plugins/LayerSlider/edit.php:1525
+#@ LayerSlider
+msgid "Padding on the bottom of the layer. Example: 10px"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:537
+#: framework/plugins/LayerSlider/add.php:1503
+#: framework/plugins/LayerSlider/edit.php:542
+#: framework/plugins/LayerSlider/edit.php:1527
+#@ LayerSlider
+msgid "Padding on the left side of the layer. Example: 10px"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:540
+#: framework/plugins/LayerSlider/add.php:1506
+#: framework/plugins/LayerSlider/edit.php:545
+#: framework/plugins/LayerSlider/edit.php:1530
+#@ LayerSlider
+msgid "Border"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:542
+#: framework/plugins/LayerSlider/add.php:1508
+#: framework/plugins/LayerSlider/edit.php:547
+#: framework/plugins/LayerSlider/edit.php:1532
+#@ LayerSlider
+msgid "Border on the top of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:544
+#: framework/plugins/LayerSlider/add.php:1510
+#: framework/plugins/LayerSlider/edit.php:549
+#: framework/plugins/LayerSlider/edit.php:1534
+#@ LayerSlider
+msgid "Border on the right side of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:546
+#: framework/plugins/LayerSlider/add.php:1512
+#: framework/plugins/LayerSlider/edit.php:551
+#: framework/plugins/LayerSlider/edit.php:1536
+#@ LayerSlider
+msgid "Border on the bottom of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:548
+#: framework/plugins/LayerSlider/add.php:1514
+#: framework/plugins/LayerSlider/edit.php:553
+#: framework/plugins/LayerSlider/edit.php:1538
+#@ LayerSlider
+msgid "Border on the left side of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:551
+#: framework/plugins/LayerSlider/add.php:1517
+#: framework/plugins/LayerSlider/edit.php:556
+#: framework/plugins/LayerSlider/edit.php:1541
+#@ LayerSlider
+msgid "Font"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:552
+#: framework/plugins/LayerSlider/add.php:1518
+#: framework/plugins/LayerSlider/edit.php:557
+#: framework/plugins/LayerSlider/edit.php:1542
+#@ LayerSlider
+msgid "Family"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:553
+#: framework/plugins/LayerSlider/add.php:1519
+#: framework/plugins/LayerSlider/edit.php:558
+#: framework/plugins/LayerSlider/edit.php:1543
+#@ LayerSlider
+msgid "List of your chosen fonts separated with a comma. Please use apostrophes if your font names contains white spaces. Example: Helvetica, Arial, sans-serif"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:554
+#: framework/plugins/LayerSlider/add.php:1520
+#: framework/plugins/LayerSlider/edit.php:559
+#: framework/plugins/LayerSlider/edit.php:1544
+#@ LayerSlider
+msgid "Size"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:555
+#: framework/plugins/LayerSlider/add.php:1521
+#: framework/plugins/LayerSlider/edit.php:560
+#: framework/plugins/LayerSlider/edit.php:1545
+#@ LayerSlider
+msgid "The font size in pixels. Example: 16px."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:556
+#: framework/plugins/LayerSlider/add.php:1522
+#: framework/plugins/LayerSlider/edit.php:561
+#: framework/plugins/LayerSlider/edit.php:1546
+#@ LayerSlider
+msgid "Line-height"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:557
+#: framework/plugins/LayerSlider/add.php:1523
+#: framework/plugins/LayerSlider/edit.php:562
+#: framework/plugins/LayerSlider/edit.php:1547
+#@ LayerSlider
+msgid "The line height of your text. The default setting is 'normal'. Example: 22px"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:558
+#: framework/plugins/LayerSlider/add.php:1524
+#: framework/plugins/LayerSlider/edit.php:563
+#: framework/plugins/LayerSlider/edit.php:1548
+#@ LayerSlider
+msgid "Color"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:559
+#: framework/plugins/LayerSlider/add.php:1525
+#: framework/plugins/LayerSlider/edit.php:564
+#: framework/plugins/LayerSlider/edit.php:1549
+#@ LayerSlider
+msgid "The color of your text. You can use color names, hexadecimal, RGB or RGBA values. Example: #333"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:563
+#: framework/plugins/LayerSlider/add.php:1529
+#: framework/plugins/LayerSlider/edit.php:568
+#: framework/plugins/LayerSlider/edit.php:1553
+#@ LayerSlider
+msgid "Background"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:564
+#: framework/plugins/LayerSlider/add.php:1530
+#: framework/plugins/LayerSlider/edit.php:569
+#: framework/plugins/LayerSlider/edit.php:1554
+#@ LayerSlider
+msgid "The background color of your layer. You can use color names, hexadecimal, RGB or RGBA values as well as the 'transparent' keyword. Example: #FFF"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:565
+#: framework/plugins/LayerSlider/add.php:1531
+#: framework/plugins/LayerSlider/edit.php:570
+#: framework/plugins/LayerSlider/edit.php:1555
+#@ LayerSlider
+msgid "Rounded corners"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:566
+#: framework/plugins/LayerSlider/add.php:1532
+#: framework/plugins/LayerSlider/edit.php:571
+#: framework/plugins/LayerSlider/edit.php:1556
+#@ LayerSlider
+msgid "If you want rounded corners, you can set here its radius. Example: 5px"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:567
+#: framework/plugins/LayerSlider/add.php:1533
+#: framework/plugins/LayerSlider/edit.php:572
+#: framework/plugins/LayerSlider/edit.php:1557
+#@ LayerSlider
+msgid "Word-wrap"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:568
+#: framework/plugins/LayerSlider/add.php:1534
+#: framework/plugins/LayerSlider/edit.php:573
+#: framework/plugins/LayerSlider/edit.php:1558
+#@ LayerSlider
+msgid "If you use custom sized layers, you have to enable this setting to wrap your text."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:571
+#: framework/plugins/LayerSlider/add.php:1537
+#: framework/plugins/LayerSlider/edit.php:576
+#: framework/plugins/LayerSlider/edit.php:1561
+#@ LayerSlider
+msgid "Custom style settings"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:572
+#: framework/plugins/LayerSlider/add.php:1538
+#: framework/plugins/LayerSlider/edit.php:577
+#: framework/plugins/LayerSlider/edit.php:1562
+#@ LayerSlider
+msgid "Custom styles"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:573
+#: framework/plugins/LayerSlider/add.php:1539
+#: framework/plugins/LayerSlider/edit.php:578
+#: framework/plugins/LayerSlider/edit.php:1563
+#@ LayerSlider
+msgid "If you want to set style settings other then above, you can use here any CSS codes. Please make sure to write valid markup."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:583
+#: framework/plugins/LayerSlider/add.php:1549
+#: framework/plugins/LayerSlider/edit.php:588
+#: framework/plugins/LayerSlider/edit.php:1573
+#@ LayerSlider
+msgid "ID"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:584
+#: framework/plugins/LayerSlider/add.php:1550
+#: framework/plugins/LayerSlider/edit.php:589
+#: framework/plugins/LayerSlider/edit.php:1574
+#@ LayerSlider
+msgid "You can apply an ID attribute on the HTML element of this layer to work with it in your custom CSS or Javascript code."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:585
+#: framework/plugins/LayerSlider/add.php:1551
+#: framework/plugins/LayerSlider/edit.php:590
+#: framework/plugins/LayerSlider/edit.php:1575
+#@ LayerSlider
+msgid "Classes"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:586
+#: framework/plugins/LayerSlider/add.php:1552
+#: framework/plugins/LayerSlider/edit.php:591
+#: framework/plugins/LayerSlider/edit.php:1576
+#@ LayerSlider
+msgid "You can apply classes on the HTML element of this layer to work with it in your custom CSS or Javascript code."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:587
+#: framework/plugins/LayerSlider/add.php:1553
+#: framework/plugins/LayerSlider/edit.php:592
+#: framework/plugins/LayerSlider/edit.php:1577
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:427
+#@ LayerSlider
+#@ wooslider
+msgid "Title"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:588
+#: framework/plugins/LayerSlider/add.php:1554
+#: framework/plugins/LayerSlider/edit.php:593
+#: framework/plugins/LayerSlider/edit.php:1578
+#@ LayerSlider
+msgid "You can add a title to this layer which will display as a tooltip if someone holds his mouse cursor over the layer."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:589
+#: framework/plugins/LayerSlider/add.php:1555
+#: framework/plugins/LayerSlider/edit.php:594
+#: framework/plugins/LayerSlider/edit.php:1579
+#@ LayerSlider
+msgid "Alt"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:590
+#: framework/plugins/LayerSlider/add.php:1556
+#: framework/plugins/LayerSlider/edit.php:595
+#: framework/plugins/LayerSlider/edit.php:1580
+#@ LayerSlider
+msgid "You can add an alternative text to your layer which is indexed by search engine robots and it helps people with certain disabilities."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:591
+#: framework/plugins/LayerSlider/add.php:1557
+#: framework/plugins/LayerSlider/edit.php:596
+#: framework/plugins/LayerSlider/edit.php:1581
+#@ LayerSlider
+msgid "Rel"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:592
+#: framework/plugins/LayerSlider/add.php:1558
+#: framework/plugins/LayerSlider/edit.php:597
+#: framework/plugins/LayerSlider/edit.php:1582
+#@ LayerSlider
+msgid "Some plugin may use the rel attribute of a linked content, here you can specify it to make interaction with these plugins."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:603
+#: framework/plugins/LayerSlider/add.php:1569
+#: framework/plugins/LayerSlider/edit.php:608
+#: framework/plugins/LayerSlider/edit.php:1595
+#@ LayerSlider
+msgid "Add new layer"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:614
+#@ LayerSlider
+msgid "Add new LayerSlider"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:615
+#: framework/plugins/LayerSlider/builder.php:535
+#: framework/plugins/LayerSlider/edit.php:620
+#: framework/plugins/LayerSlider/editor.php:32
+#: framework/plugins/LayerSlider/style_editor.php:20
+#@ LayerSlider
+msgid "Back to the list"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:620
+#: framework/plugins/LayerSlider/add.php:642
+#: framework/plugins/LayerSlider/edit.php:625
+#: framework/plugins/LayerSlider/edit.php:647
+#@ LayerSlider
+msgid "Global Settings"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:621
+#: framework/plugins/LayerSlider/edit.php:626
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:121
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:31
+#@ LayerSlider
+#@ wooslider
+msgid "Slides"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:622
+#: framework/plugins/LayerSlider/edit.php:627
+#@ LayerSlider
+msgid "Event Callbacks"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:623
+#: framework/plugins/LayerSlider/edit.php:628
+#@ LayerSlider
+msgid "Documentation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:636
+#: framework/plugins/LayerSlider/edit.php:641
+#@ LayerSlider
+msgid "Type your slider name here"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:656
+#: framework/plugins/LayerSlider/edit.php:661
+#@ LayerSlider
+msgid "The slider width in pixels. For compatibility reasons, we still support percentage values, but for responsive layout, you should use pixels."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:661
+#: framework/plugins/LayerSlider/edit.php:666
+#@ LayerSlider
+msgid "The slider height in pixels."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:664
+#: framework/plugins/LayerSlider/edit.php:669
+#@ LayerSlider
+msgid "Responsive"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:666
+#: framework/plugins/LayerSlider/edit.php:671
+#@ LayerSlider
+msgid "Enable this option to turn LayerSlider into a responsive slider."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:669
+#: framework/plugins/LayerSlider/edit.php:674
+#@ LayerSlider
+msgid "Full-width slider"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:671
+#: framework/plugins/LayerSlider/edit.php:676
+#@ LayerSlider
+msgid "When you are using a responsiveness or percentage dimensions for the slider, it will respond the parent element size changes. With this option you can bypass this behaviour and LayerSlider will be a full-width slider."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:674
+#: framework/plugins/LayerSlider/edit.php:679
+#@ LayerSlider
+msgid "Responsive under"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:676
+#: framework/plugins/LayerSlider/edit.php:681
+#@ LayerSlider
+msgid "You can force the slider to change automatically into responsive mode but only if the slider width is smaller than responsiveUnder pixels. It can be used if you need a full-width slider with fixed height but you also need it to be responsive if the browser is smaller... Important! If you enter a value higher than 0, the normal responsive mode will be switched off automatically!"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:679
+#: framework/plugins/LayerSlider/edit.php:684
+#@ LayerSlider
+msgid "Layers Container"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:681
+#: framework/plugins/LayerSlider/edit.php:686
+#@ LayerSlider
+msgid "This feature is useful if you are using a full-width slider and you want to avoid stretching your layers across the full viewport horizontally. Just specify a custom width in pixels, and the slider will create a centered inner area to place your content into that. Note that this feature is working only with pixel-positioned layers, but you can still use the value '50%' if you want centered positions."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:688
+#: framework/plugins/LayerSlider/edit.php:693
+#@ LayerSlider
+msgid "Slideshow"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:694
+#: framework/plugins/LayerSlider/edit.php:699
+#@ LayerSlider
+msgid "Automatically start slideshow"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:696
+#: framework/plugins/LayerSlider/edit.php:701
+#@ LayerSlider
+msgid "If enabled, slideshow will automatically start after loading the page."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:699
+#: framework/plugins/LayerSlider/edit.php:704
+#@ LayerSlider
+msgid "Pause on hover"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:701
+#: framework/plugins/LayerSlider/edit.php:706
+#@ LayerSlider
+msgid "Slideshow will pause when mouse pointer is over LayerSlider."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:704
+#: framework/plugins/LayerSlider/edit.php:709
+#@ LayerSlider
+msgid "First slide"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:706
+#: framework/plugins/LayerSlider/edit.php:711
+#@ LayerSlider
+msgid "LayerSlider will start with this slide (you can type the word <i>random</i> if you want the slider to start with a random slide)."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:709
+#: framework/plugins/LayerSlider/edit.php:714
+#@ LayerSlider
+msgid "Animate first slide"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:711
+#: framework/plugins/LayerSlider/edit.php:716
+#@ LayerSlider
+msgid "If enabled, the layers of the first slide will animate (slide in) instead of fading in with the slide."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:714
+#: framework/plugins/LayerSlider/edit.php:719
+#@ LayerSlider
+msgid "Random slideshow"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:716
+#: framework/plugins/LayerSlider/edit.php:721
+#@ LayerSlider
+msgid "LayerSlider will change to a random slide instead of changing to the next / prev slide. Note that 'loops' feature won't work with this option."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:719
+#: framework/plugins/LayerSlider/edit.php:724
+#@ LayerSlider
+msgid "Two way slideshow"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:721
+#: framework/plugins/LayerSlider/edit.php:726
+#@ LayerSlider
+msgid "If enabled, slideshow will go backwards if you click the prev button."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:724
+#: framework/plugins/LayerSlider/edit.php:729
+#@ LayerSlider
+msgid "Loops"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:732
+#: framework/plugins/LayerSlider/edit.php:741
+#@ LayerSlider
+msgid "Number of loops if automatically start slideshow is enabled (0 means infinite!)"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:735
+#: framework/plugins/LayerSlider/edit.php:744
+#@ LayerSlider
+msgid "Force the number of loops"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:737
+#: framework/plugins/LayerSlider/edit.php:746
+#@ LayerSlider
+msgid "If enabled, the slider will always stop at the given number of loops even if the user restarts the slideshow."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:740
+#: framework/plugins/LayerSlider/edit.php:749
+#@ LayerSlider
+msgid "Automatically play videos"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:742
+#: framework/plugins/LayerSlider/edit.php:751
+#@ LayerSlider
+msgid "If enabled, the slider will automatically play youtube and vimeo videos."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:745
+#: framework/plugins/LayerSlider/edit.php:754
+#@ LayerSlider
+msgid "Automatically pause slideshow"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:748
+#@ LayerSlider
+msgid "auto"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:749
+#@ LayerSlider
+msgid "enabled"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:750
+#: framework/plugins/LayerSlider/add.php:878
+#@ LayerSlider
+msgid "disabled"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:753
+#: framework/plugins/LayerSlider/edit.php:762
+#@ LayerSlider
+msgid "If you enabled the 'automatically play videos' option, the 'auto' value means that the slideshow will pause UNTIL the video is finished playing and after that it will continue. The 'enabled' value means that the slideshow will stop and will not resume after the video has been played."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:756
+#: framework/plugins/LayerSlider/edit.php:765
+#@ LayerSlider
+msgid "Youtube preview"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:759
+#: framework/plugins/LayerSlider/edit.php:768
+#@ LayerSlider
+msgid "Maximum quality"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:760
+#: framework/plugins/LayerSlider/edit.php:769
+#@ LayerSlider
+msgid "High quality"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:761
+#: framework/plugins/LayerSlider/edit.php:770
+#@ LayerSlider
+msgid "Medium quality"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:762
+#: framework/plugins/LayerSlider/edit.php:771
+#@ LayerSlider
+msgid "Default quality"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:765
+#: framework/plugins/LayerSlider/edit.php:774
+#@ LayerSlider
+msgid "Default thumbnail picture of YouTube videos. Note, that Maximum quaility is not available to all (not HD) videos."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:768
+#: framework/plugins/LayerSlider/edit.php:777
+#@ LayerSlider
+msgid "Keyboard navigation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:770
+#: framework/plugins/LayerSlider/edit.php:779
+#@ LayerSlider
+msgid "You can navigate with the left and right arrow keys."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:773
+#: framework/plugins/LayerSlider/edit.php:782
+#@ LayerSlider
+msgid "Touch navigation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:775
+#: framework/plugins/LayerSlider/edit.php:784
+#@ LayerSlider
+msgid "Touch-control (on mobile devices)."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:782
+#: framework/plugins/LayerSlider/edit.php:791
+#@ LayerSlider
+msgid "Appearance"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:788
+#: framework/plugins/LayerSlider/edit.php:797
+#@ LayerSlider
+msgid "Skin"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:798
+#: framework/plugins/LayerSlider/edit.php:807
+#@ LayerSlider
+msgid "You can change the skin of the slider. The 'noskin' skin is a border- and buttonless skin. Your custom skins will appear in the list when you create their folders as well."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:801
+#: framework/plugins/LayerSlider/edit.php:810
+#@ LayerSlider
+msgid "Background color"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:807
+#: framework/plugins/LayerSlider/edit.php:816
+#@ LayerSlider
+msgid "Background color of LayerSlider. You can use all CSS methods, like hexa colors, rgb(r,g,b) method, color names, etc. Note, that slides with background will cover up the global background image."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:810
+#: framework/plugins/LayerSlider/edit.php:819
+#@ LayerSlider
+msgid "Background image"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:817
+#: framework/plugins/LayerSlider/edit.php:826
+#@ LayerSlider
+msgid "Background image of LayerSlider. This will be a fixed background image of LayerSlider by default. Note, that slides with background will cover up the global background image."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:820
+#: framework/plugins/LayerSlider/edit.php:829
+#@ LayerSlider
+msgid "Slider style"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:827
+#: framework/plugins/LayerSlider/edit.php:836
+#@ LayerSlider
+msgid "Here you can apply your custom CSS style settings to the slider."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:834
+#: framework/plugins/LayerSlider/edit.php:843
+#@ LayerSlider
+msgid "Navigation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:840
+#: framework/plugins/LayerSlider/edit.php:849
+#@ LayerSlider
+msgid "Prev and Next buttons"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:842
+#: framework/plugins/LayerSlider/edit.php:851
+#@ LayerSlider
+msgid "If disabled, Prev and Next buttons will be invisible."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:845
+#: framework/plugins/LayerSlider/edit.php:854
+#@ LayerSlider
+msgid "Start and Stop buttons"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:847
+#: framework/plugins/LayerSlider/edit.php:856
+#@ LayerSlider
+msgid "If disabled, Start and Stop buttons will be invisible."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:850
+#: framework/plugins/LayerSlider/edit.php:859
+#@ LayerSlider
+msgid "Navigation buttons"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:852
+#: framework/plugins/LayerSlider/edit.php:861
+#@ LayerSlider
+msgid "If disabled, slide buttons will be invisible."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:855
+#: framework/plugins/LayerSlider/edit.php:864
+#@ LayerSlider
+msgid "Prev and next buttons on hover"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:857
+#: framework/plugins/LayerSlider/edit.php:866
+#@ LayerSlider
+msgid "If enabled, the prev and next buttons will be shown only if you move your mouse cursor over the slider."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:860
+#: framework/plugins/LayerSlider/edit.php:869
+#@ LayerSlider
+msgid "Bottom navigation on hover"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:862
+#: framework/plugins/LayerSlider/edit.php:871
+#@ LayerSlider
+msgid "The bottom navigation controls (with also thumbnails) will be shown only if you move your mouse cursor over the slider."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:865
+#: framework/plugins/LayerSlider/edit.php:874
+#@ LayerSlider
+msgid "Show bar timer"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:867
+#: framework/plugins/LayerSlider/edit.php:876
+#@ LayerSlider
+msgid "You can hide or show the bar timer with this option."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:870
+#: framework/plugins/LayerSlider/edit.php:879
+#@ LayerSlider
+msgid "Show circle timer"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:872
+#: framework/plugins/LayerSlider/edit.php:881
+#@ LayerSlider
+msgid "You can hide or show the circle timer with this option."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:875
+#: framework/plugins/LayerSlider/edit.php:884
+#@ LayerSlider
+msgid "Thumbnail navigation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:879
+#@ LayerSlider
+msgid "hover"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:880
+#@ LayerSlider
+msgid "always"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:886
+#: framework/plugins/LayerSlider/edit.php:896
+#@ LayerSlider
+msgid "Thumbnail width"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:888
+#: framework/plugins/LayerSlider/edit.php:898
+#@ LayerSlider
+msgid "The width of the thumbnails in the navigation area."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:891
+#: framework/plugins/LayerSlider/edit.php:901
+#@ LayerSlider
+msgid "Thumbnail height"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:893
+#: framework/plugins/LayerSlider/edit.php:903
+#@ LayerSlider
+msgid "The height of the thumbnails in the navigation area."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:896
+#: framework/plugins/LayerSlider/edit.php:906
+#@ LayerSlider
+msgid "Thumbnail container width"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:898
+#: framework/plugins/LayerSlider/edit.php:908
+#@ LayerSlider
+msgid "The width of the thumbnail navigation area."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:901
+#: framework/plugins/LayerSlider/edit.php:911
+#@ LayerSlider
+msgid "Thumbnail active opacity"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:903
+#: framework/plugins/LayerSlider/edit.php:913
+#@ LayerSlider
+msgid "The selected thumbnail opacity (0-100)."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:906
+#: framework/plugins/LayerSlider/edit.php:916
+#@ LayerSlider
+msgid "Thumbnail inactive opacity"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:908
+#: framework/plugins/LayerSlider/edit.php:918
+#@ LayerSlider
+msgid "The opacity of inactive thumbnails (0-100)."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:921
+#: framework/plugins/LayerSlider/edit.php:931
+#@ LayerSlider
+msgid "Image preload"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:923
+#: framework/plugins/LayerSlider/edit.php:933
+#@ LayerSlider
+msgid "Preloads all images and background-images of the next slide."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:926
+#: framework/plugins/LayerSlider/edit.php:936
+#@ LayerSlider
+msgid "Use relative URLs"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:928
+#: framework/plugins/LayerSlider/edit.php:938
+#@ LayerSlider
+msgid "If enabled, LayerSlider WP will use relative URLs for images."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:935
+#: framework/plugins/LayerSlider/edit.php:945
+#@ LayerSlider
+msgid "Troubleshooting"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:941
+#: framework/plugins/LayerSlider/edit.php:951
+#@ LayerSlider
+msgid "Put JS includes to body"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:943
+#: framework/plugins/LayerSlider/edit.php:953
+#@ LayerSlider
+msgid "If the slider doesn't showing up on your front-end page, you probably have a jQuery conflict when multiple libraries loaded to the document and causes a Javascript error. Enabling this option may solve your problem. Please don't enable this option if you don't experiencing any issues."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:950
+#: framework/plugins/LayerSlider/add.php:956
+#: framework/plugins/LayerSlider/edit.php:960
+#: framework/plugins/LayerSlider/edit.php:966
+#@ LayerSlider
+msgid "YourLogo"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:963
+#: framework/plugins/LayerSlider/edit.php:973
+#@ LayerSlider
+msgid "This is a fixed layer that will be shown above of LayerSlider container. For example if you want to display your own logo, etc., you can upload an image or choose one from the Media Library."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:966
+#: framework/plugins/LayerSlider/edit.php:976
+#@ LayerSlider
+msgid "YourLogo style"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:968
+#: framework/plugins/LayerSlider/edit.php:978
+#@ LayerSlider
+msgid "You can style your logo. You can use any CSS properties, for example you can add left and top properties to place the image inside the LayerSlider container anywhere you want."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:971
+#: framework/plugins/LayerSlider/edit.php:981
+#@ LayerSlider
+msgid "YourLogo link"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:978
+#: framework/plugins/LayerSlider/edit.php:988
+#@ LayerSlider
+msgid "You can add a link to your logo. Set false is you want to display only an image without a link."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:981
+#: framework/plugins/LayerSlider/edit.php:991
+#@ LayerSlider
+msgid "YourLogo link target"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:990
+#: framework/plugins/LayerSlider/edit.php:1001
+#@ LayerSlider
+msgid "If '_blank', the clicked url will open in a new window."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:1002
+#: framework/plugins/LayerSlider/edit.php:1016
+#@ LayerSlider
+msgid "Add new slide"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:1065
+#: framework/plugins/LayerSlider/edit.php:104
+#: framework/plugins/LayerSlider/edit.php:1082
+#@ LayerSlider
+msgid "You can control here the timing of the layer animations when the slider changes to this slide with a 3D/2D transition. Zero means that the layers of this slide will animate in when the slide transition ends. You can time-shift the starting time of the layer animations with positive or negative values."
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:1636
+#: framework/plugins/LayerSlider/builder.php:1092
+#: framework/plugins/LayerSlider/edit.php:1664
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:435
+#@ LayerSlider
+#@ wooslider
+msgid "Publish"
+msgstr ""
+
+#: framework/plugins/LayerSlider/add.php:1638
+#: framework/plugins/LayerSlider/builder.php:1095
+#: framework/plugins/LayerSlider/edit.php:1666
+#: framework/plugins/LayerSlider/editor.php:66
+#: framework/plugins/LayerSlider/list.php:83
+#: framework/plugins/LayerSlider/list.php:114
+#: framework/plugins/LayerSlider/style_editor.php:37
+#@ LayerSlider
+msgid "Save changes"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:110
+#: framework/plugins/LayerSlider/builder.php:392
+#: framework/plugins/LayerSlider/builder.php:612
+#: framework/plugins/LayerSlider/builder.php:944
+#@ LayerSlider
+msgid "Basic properties"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:115
+#: framework/plugins/LayerSlider/builder.php:397
+#: framework/plugins/LayerSlider/builder.php:617
+#: framework/plugins/LayerSlider/builder.php:949
+#@ LayerSlider
+msgid "Transition name"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:116
+#: framework/plugins/LayerSlider/builder.php:398
+#: framework/plugins/LayerSlider/builder.php:618
+#: framework/plugins/LayerSlider/builder.php:950
+#@ LayerSlider
+msgid "The name of your custom transition. When you will edit a slider, it will appear with this name, so you can easily identify the individual transitions."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:119
+#: framework/plugins/LayerSlider/builder.php:401
+#: framework/plugins/LayerSlider/builder.php:623
+#: framework/plugins/LayerSlider/builder.php:955
+#@ LayerSlider
+msgid "Rows"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:120
+#: framework/plugins/LayerSlider/builder.php:402
+#: framework/plugins/LayerSlider/builder.php:624
+#: framework/plugins/LayerSlider/builder.php:956
+#@ LayerSlider
+msgid "<number> or <min_number>,<max_number> If you specify a value greater than 1, LayerSlider will cut your slide into tiles. You can specify here how many rows of your transition should have. If you specify two numbers separated with a comma, LayerSlider will use that as a range and pick a random number between your values."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:121
+#: framework/plugins/LayerSlider/builder.php:403
+#: framework/plugins/LayerSlider/builder.php:625
+#: framework/plugins/LayerSlider/builder.php:957
+#@ LayerSlider
+msgid "Cols"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:122
+#: framework/plugins/LayerSlider/builder.php:404
+#: framework/plugins/LayerSlider/builder.php:626
+#: framework/plugins/LayerSlider/builder.php:958
+#@ LayerSlider
+msgid "<number> or <min_number>,<max_number> If you specify a value greater than 1, LayerSlider will cut your slide into tiles. You can specify here how many columns of your transition should have. If you specify two numbers separated with a comma, LayerSlider will use that as a range and pick a random number between your values."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:127
+#: framework/plugins/LayerSlider/builder.php:409
+#: framework/plugins/LayerSlider/builder.php:631
+#: framework/plugins/LayerSlider/builder.php:963
+#@ LayerSlider
+msgid "Tiles"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:133
+#: framework/plugins/LayerSlider/builder.php:415
+#: framework/plugins/LayerSlider/builder.php:637
+#: framework/plugins/LayerSlider/builder.php:969
+#@ LayerSlider
+msgid "You can apply a delay between the tiles and postpone their animation relative to each other."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:134
+#: framework/plugins/LayerSlider/builder.php:416
+#: framework/plugins/LayerSlider/builder.php:638
+#: framework/plugins/LayerSlider/builder.php:970
+#@ LayerSlider
+msgid "Sequence"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:136
+#: framework/plugins/LayerSlider/builder.php:418
+#: framework/plugins/LayerSlider/builder.php:640
+#: framework/plugins/LayerSlider/builder.php:972
+#@ LayerSlider
+msgid "You can control the animation order of the tiles here."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:137
+#: framework/plugins/LayerSlider/builder.php:419
+#: framework/plugins/LayerSlider/builder.php:641
+#: framework/plugins/LayerSlider/builder.php:973
+#@ LayerSlider
+msgid "Forward"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:138
+#: framework/plugins/LayerSlider/builder.php:420
+#: framework/plugins/LayerSlider/builder.php:642
+#: framework/plugins/LayerSlider/builder.php:974
+#@ LayerSlider
+msgid "Reverse"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:139
+#: framework/plugins/LayerSlider/builder.php:421
+#: framework/plugins/LayerSlider/builder.php:643
+#: framework/plugins/LayerSlider/builder.php:975
+#@ LayerSlider
+msgid "Col-forward"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:140
+#: framework/plugins/LayerSlider/builder.php:422
+#: framework/plugins/LayerSlider/builder.php:644
+#: framework/plugins/LayerSlider/builder.php:976
+#@ LayerSlider
+msgid "Col-reverse"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:141
+#: framework/plugins/LayerSlider/builder.php:423
+#: framework/plugins/LayerSlider/builder.php:491
+#: framework/plugins/LayerSlider/builder.php:645
+#: framework/plugins/LayerSlider/builder.php:977
+#: framework/plugins/LayerSlider/builder.php:1045
+#@ LayerSlider
+msgid "Random"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:148
+#: framework/plugins/LayerSlider/builder.php:652
+#@ LayerSlider
+msgid "Depth"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:150
+#: framework/plugins/LayerSlider/builder.php:654
+#@ LayerSlider
+msgid "The script will try to identify the optimal depth for your rotated objects (tiles). With this option, you can force your objects to have large depth when performing 180 degree (and its multiplies) rotation."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:160
+#: framework/plugins/LayerSlider/builder.php:668
+#@ LayerSlider
+msgid "Before animation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:170
+#: framework/plugins/LayerSlider/builder.php:227
+#: framework/plugins/LayerSlider/builder.php:306
+#: framework/plugins/LayerSlider/builder.php:678
+#: framework/plugins/LayerSlider/builder.php:748
+#: framework/plugins/LayerSlider/builder.php:836
+#@ LayerSlider
+msgid "The duration of your animation. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:173
+#: framework/plugins/LayerSlider/builder.php:230
+#: framework/plugins/LayerSlider/builder.php:309
+#: framework/plugins/LayerSlider/builder.php:439
+#: framework/plugins/LayerSlider/builder.php:682
+#: framework/plugins/LayerSlider/builder.php:751
+#: framework/plugins/LayerSlider/builder.php:840
+#: framework/plugins/LayerSlider/builder.php:993
+#@ LayerSlider
+msgid "The timing function of the animation, with it you can manipualte the movement of the animated object. Please click on the link next to this select field to open easings.net for more information and real-time examples."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:206
+#: framework/plugins/LayerSlider/builder.php:282
+#: framework/plugins/LayerSlider/builder.php:342
+#: framework/plugins/LayerSlider/builder.php:562
+#: framework/plugins/LayerSlider/builder.php:581
+#: framework/plugins/LayerSlider/builder.php:727
+#: framework/plugins/LayerSlider/builder.php:808
+#: framework/plugins/LayerSlider/builder.php:885
+#@ LayerSlider
+msgid "Add new"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:208
+#: framework/plugins/LayerSlider/builder.php:284
+#: framework/plugins/LayerSlider/builder.php:344
+#: framework/plugins/LayerSlider/builder.php:729
+#: framework/plugins/LayerSlider/builder.php:810
+#: framework/plugins/LayerSlider/builder.php:887
+#@ LayerSlider
+msgid "Scale3D"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:209
+#: framework/plugins/LayerSlider/builder.php:275
+#: framework/plugins/LayerSlider/builder.php:285
+#: framework/plugins/LayerSlider/builder.php:345
+#: framework/plugins/LayerSlider/builder.php:500
+#: framework/plugins/LayerSlider/builder.php:730
+#: framework/plugins/LayerSlider/builder.php:811
+#: framework/plugins/LayerSlider/builder.php:888
+#: framework/plugins/LayerSlider/builder.php:1054
+#@ LayerSlider
+msgid "RotateX"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:210
+#: framework/plugins/LayerSlider/builder.php:286
+#: framework/plugins/LayerSlider/builder.php:346
+#: framework/plugins/LayerSlider/builder.php:502
+#: framework/plugins/LayerSlider/builder.php:731
+#: framework/plugins/LayerSlider/builder.php:812
+#: framework/plugins/LayerSlider/builder.php:889
+#: framework/plugins/LayerSlider/builder.php:1056
+#@ LayerSlider
+msgid "RotateY"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:220
+#: framework/plugins/LayerSlider/builder.php:741
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:102
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:329
+#@ LayerSlider
+#@ wooslider
+msgid "Animation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:264
+#: framework/plugins/LayerSlider/builder.php:785
+#@ LayerSlider
+msgid "The direction of rotation."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:265
+#: framework/plugins/LayerSlider/builder.php:786
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:118
+#@ LayerSlider
+#@ wooslider
+msgid "Vertical"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:266
+#: framework/plugins/LayerSlider/builder.php:787
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:118
+#@ LayerSlider
+#@ wooslider
+msgid "Horizontal"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:296
+#: framework/plugins/LayerSlider/builder.php:826
+#@ LayerSlider
+msgid "After animation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:355
+#: framework/plugins/LayerSlider/builder.php:514
+#: framework/plugins/LayerSlider/builder.php:898
+#: framework/plugins/LayerSlider/builder.php:1068
+#@ LayerSlider
+msgid "Transition options"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:361
+#: framework/plugins/LayerSlider/builder.php:520
+#: framework/plugins/LayerSlider/builder.php:904
+#: framework/plugins/LayerSlider/builder.php:1074
+#@ LayerSlider
+msgid "Remove transition"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:430
+#: framework/plugins/LayerSlider/builder.php:984
+#@ LayerSlider
+msgid "Transition"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:436
+#: framework/plugins/LayerSlider/builder.php:990
+#@ LayerSlider
+msgid "The duration of the animation. This value is in millisecs, so the value 1000 measn 1 second."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:478
+#: framework/plugins/LayerSlider/builder.php:1032
+#@ LayerSlider
+msgid "The type of the animation, either slide, fade or both (mixed)."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:479
+#: framework/plugins/LayerSlider/builder.php:1033
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:121
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:108
+#@ LayerSlider
+#@ wooslider
+msgid "Slide"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:481
+#: framework/plugins/LayerSlider/builder.php:1035
+#@ LayerSlider
+msgid "Mixed"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:486
+#: framework/plugins/LayerSlider/builder.php:1040
+#@ LayerSlider
+msgid "The direction of the slide or mixed animation if you chose these type in the previous setting."
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:492
+#: framework/plugins/LayerSlider/builder.php:1046
+#@ LayerSlider
+msgid "Top left"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:493
+#: framework/plugins/LayerSlider/builder.php:1047
+#@ LayerSlider
+msgid "Top right"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:494
+#: framework/plugins/LayerSlider/builder.php:1048
+#@ LayerSlider
+msgid "Bottom left"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:495
+#: framework/plugins/LayerSlider/builder.php:1049
+#@ LayerSlider
+msgid "Bottom right"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:506
+#: framework/plugins/LayerSlider/builder.php:1060
+#@ LayerSlider
+msgid "RotateZ"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:534
+#@ LayerSlider
+msgid "LayerSlider Transition Builder"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:539
+#: framework/plugins/LayerSlider/editor.php:36
+#: framework/plugins/LayerSlider/style_editor.php:24
+#@ LayerSlider
+msgid "Your changes has been saved!"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:549
+#@ LayerSlider
+msgid "3D transitions"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:551
+#: framework/plugins/LayerSlider/builder.php:570
+#@ LayerSlider
+msgid "Choose:"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:561
+#: framework/plugins/LayerSlider/builder.php:580
+#@ LayerSlider
+msgid "or"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:568
+#@ LayerSlider
+msgid "2D transitions"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:1099
+#@ LayerSlider
+msgid "Before you can save your changes, you need to make writeable your \"/wp-content/uploads\" folder. See the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a>"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:1125
+#@ LayerSlider
+msgid "Transition Builder documentation"
+msgstr ""
+
+#: framework/plugins/LayerSlider/builder.php:1125
+#@ LayerSlider
+msgid "To get started with the LayerSlider WP Transition Builder, please read our documentation by clicking on this \"Help\" menu item."
+msgstr ""
+
+#: framework/plugins/LayerSlider/edit.php:619
+#@ LayerSlider
+msgid "Edit this LayerSlider"
+msgstr ""
+
+#: framework/plugins/LayerSlider/edit.php:659
+#@ LayerSlider
+msgid "Slider width"
+msgstr ""
+
+#: framework/plugins/LayerSlider/edit.php:664
+#@ LayerSlider
+msgid "Slider height"
+msgstr ""
+
+#: framework/plugins/LayerSlider/edit.php:1173
+#@ LayerSlider
+msgid "Link this slide "
+msgstr ""
+
+#: framework/plugins/LayerSlider/editor.php:31
+#@ LayerSlider
+msgid "LayerSlider Skin Editor"
+msgstr ""
+
+#: framework/plugins/LayerSlider/editor.php:42
+#: framework/plugins/LayerSlider/layerslider.php:660
+#@ LayerSlider
+msgid "Skin Editor"
+msgstr ""
+
+#: framework/plugins/LayerSlider/editor.php:44
+#@ LayerSlider
+msgid "Choose a skin:"
+msgstr ""
+
+#: framework/plugins/LayerSlider/editor.php:64
+#@ LayerSlider
+msgid "You need to make this file writable before you can save your changes. See the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a> for more information."
+msgstr ""
+
+#: framework/plugins/LayerSlider/editor.php:67
+#@ LayerSlider
+msgid "Modifying a skin could be dangerous, these changes will be permanent, you can't revert it."
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:215
+#: framework/plugins/LayerSlider/list.php:87
+#@ LayerSlider
+msgid "Thank you for purchasing LayerSlider WP. You successfully validated your purchase code for auto-updates."
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:223
+#: framework/plugins/LayerSlider/list.php:89
+#@ LayerSlider
+msgid "Your purchase code doesn't appear to be valid. Please make sure that you entered your purchase code correctly."
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:299
+#@ LayerSlider
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:304
+#@ LayerSlider
+msgid "An unknown error occurred"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:658
+#@ LayerSlider
+msgid "All Sliders"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:659
+#: framework/plugins/LayerSlider/list.php:23
+#@ LayerSlider
+msgid "Add New"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:661
+#@ LayerSlider
+msgid "Transition Builder"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:662
+#@ LayerSlider
+msgid "Custom Styles Editor"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:925
+#: framework/plugins/LayerSlider/layerslider.php:1035
+#@ LayerSlider
+msgid "It looks like your files isn't writable, so PHP couldn't make any changes (CHMOD)."
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:925
+#: framework/plugins/LayerSlider/layerslider.php:1035
+#@ LayerSlider
+msgid "Cannot write to file"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1179
+#@ LayerSlider
+msgid "Invalid shortcode"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1199
+#@ LayerSlider
+msgid "Slider not found"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1231
+#@ LayerSlider
+msgid "The new version of LayerSlider WP is almost ready!"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1233
+#@ LayerSlider
+msgid "For a faster and more reliable solution, LayerSlider WP needs to convert your data associated with the plugin. Your sliders and settings will remain still, and it only takes a click on this button."
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1235
+#@ LayerSlider
+msgid "Convert Data"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1496
+#@ LayerSlider
+msgid "Insert a slider with LayerSlider WP Widget"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1498
+#@ LayerSlider
+msgid "LayerSlider WP Widget"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1530
+#@ LayerSlider
+msgid "LayerSlider"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1546
+#@ LayerSlider
+msgid "Choose a slider:"
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1559
+#@ LayerSlider
+msgid "You didn't create any slider yet."
+msgstr ""
+
+#: framework/plugins/LayerSlider/layerslider.php:1564
+#@ LayerSlider
+msgid "Title:"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:22
+#@ LayerSlider
+msgid "LayerSlider sliders"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:24
+#@ LayerSlider
+msgid "Import sample sliders"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:33
+#@ LayerSlider
+msgid "Shortcode"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:34
+#@ LayerSlider
+msgid "Actions"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:35
+#@ LayerSlider
+msgid "Created"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:36
+#@ LayerSlider
+msgid "Modified"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:48
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:398
+#: woocommerce/myaccount/my-address.php:73
+#@ LayerSlider
+#@ wooslider
+#@ woocommerce
+msgid "Edit"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:49
+#@ LayerSlider
+msgid "Duplicate"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:50
+#@ LayerSlider
+msgid "Remove"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:59
+#@ LayerSlider
+msgid "You didn't create a slider yet."
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:69
+#@ LayerSlider
+msgid "Auto-updates"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:73
+#@ LayerSlider
+msgid "Purchase code"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:76
+#@ LayerSlider
+msgid "To receive auto-updates, you need to enter your item purchase code. You can find it on your CodeCanyon downloads page, just click on the Download button and choose the \"Licence Certificate\" option. This will download a text file that contains your purchase code."
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:102
+#@ LayerSlider
+msgid "Permissions"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:106
+#@ LayerSlider
+msgid "Custom capability"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:108
+#@ LayerSlider
+msgid "If you want to give access for other users than admins to this page, you can specify a custom capability. You can find all the available capabilities on"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:108
+#@ LayerSlider
+msgid "this page"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:122
+#@ LayerSlider
+msgid "Import sliders"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:125
+#@ LayerSlider
+msgid "Import"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:142
+#@ LayerSlider
+msgid "Export sliders"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:145
+#@ LayerSlider
+msgid "Place this export code into the import text field in your new site and press \"Import\"."
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:164
+#@ LayerSlider
+msgid "The documentation is here"
+msgstr ""
+
+#: framework/plugins/LayerSlider/list.php:164
+#@ LayerSlider
+msgid "This is a WordPress contextual help menu, we use it to give you fast access to our documentation. Please keep in mind that because this menu is contextual, it only shows the relevant information to the page that you are currently viewing. So if you search something, you should visit the corresponding page first and then open this help menu."
+msgstr ""
+
+#: framework/plugins/LayerSlider/style_editor.php:19
+#@ LayerSlider
+msgid "LayerSlider Custom Styles Editor"
+msgstr ""
+
+#: framework/plugins/LayerSlider/style_editor.php:29
+#@ LayerSlider
+msgid "Contents of your custom CSS file"
+msgstr ""
+
+#: framework/plugins/LayerSlider/style_editor.php:35
+#@ LayerSlider
+msgid "You need to make your uploads folder writable before you can save your changes. See the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a> for more information."
+msgstr ""
+
+#: framework/plugins/post-types-order/post-types-order.php:107
+#@ cpt
+msgid "Post Types Order must be configured. Please go to"
+msgstr ""
+
+#: framework/plugins/post-types-order/post-types-order.php:107
+#@ cpt
+msgid "Settings Page"
+msgstr ""
+
+#: framework/plugins/post-types-order/post-types-order.php:107
+#@ cpt
+msgid "make the configuration and save"
+msgstr ""
+
+#: framework/plugins/post-types-order/post-types-order.php:468
+#@ cpt
+msgid "This plugin can't work without javascript, because it's use drag and drop and AJAX."
+msgstr ""
+
+#: framework/plugins/post-types-order/post-types-order.php:497
+#@ cpt
+msgid "Items Order Updated"
+msgstr ""
+
+#: framework/plugins/post-types-order/post-types-order.php:514
+#@ pto
+msgid "Pages"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/functions.php:65
+#@ cpt
+msgid "Did you find this plugin useful? Please support our work with a donation or write an article about this plugin in your blog with a link to our site"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/functions.php:66
+#@ cpt
+msgid "Did you know there is available an Advanced version of this plug-in?"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/functions.php:66
+#@ cpt
+msgid "Read more"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/functions.php:67
+#@ cpt
+msgid "Check our"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/functions.php:67
+#@ cpt
+msgid "plugin which allow to custom sort categories and custom taxonomies terms"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:16
+#@ cpt
+msgid "Settings Saved"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:28
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:70
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:325
+#@ cpt
+#@ wooslider
+msgid "General Settings"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:34
+#@ cpt
+msgid "General"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:39
+#@ cpt
+msgid "Minimum Level to use this plugin"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:42
+#@ cpt
+msgid "Subscriber"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:43
+#@ cpt
+msgid "Contributor"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:44
+#@ cpt
+msgid "Author"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:45
+#@ cpt
+msgid "Editor"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:46
+#@ cpt
+msgid "Administrator"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:52
+#@ cpt
+msgid "Auto Sort"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:56
+#@ cpt
+msgid "If checked, the plug-in will automatically update the wp-queries to use the new order (<b>No code update is necessarily</b>).<br /> If you need more order customizations you will need to uncheck this and include 'menu_order' into your theme queries"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:58
+#@ cpt
+msgid "Show Examples"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:61
+#@ cpt
+msgid "The following PHP code will still return the post in the set-up Order"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:74
+#@ cpt
+msgid "Or"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:83
+#@ cpt
+msgid "If the Auto Sort is uncheck you will need to use the \"orderby\" and \"order\" parameters"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:98
+#@ cpt
+msgid "Admin Sort"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:102
+#@ cpt
+msgid "To affect the admin interface, to see the post types per your new sort, this need to be checked"
+msgstr ""
+
+#: framework/plugins/post-types-order/include/options.php:111
+#@ cpt
+msgid "Save Settings"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:67
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:121
+#@ wooslider
+msgid "FlexSlider"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:92
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:103
+#@ wooslider
+msgid "Insert Slideshow"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:94
+#@ wooslider
+msgid "Advanced Settings"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:96
+#@ wooslider
+msgid "Optionally override the default slideshow settings using the fields below."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:169
+#@ wooslider
+msgid "Slideshow Type"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:177
+#@ wooslider
+msgid "The type of slideshow to insert"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:187
+#@ wooslider
+msgid "Slideshow Theme"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:195
+#@ wooslider
+msgid "The desired slideshow theme"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:202
+#@ wooslider
+msgid "Slideshow ID"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:204
+#@ wooslider
+msgid "Give this slideshow a specific ID (optional)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:224
+#@ wooslider
+msgid "Sync"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:226
+#@ wooslider
+msgid "Slideshow ID: Mirror the actions performed on this slideshow with another slideshow. Use with care."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:447
+#@ wooslider
+msgid "Number of Images"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:447
+#@ wooslider
+msgid "The maximum number of images to display"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:448
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:483
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:557
+#@ wooslider
+msgid "Use thumbnails for Pagination"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:448
+#@ wooslider
+msgid "Use thumbnails for pagination, instead of \"dot\" indicators"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:481
+#@ wooslider
+msgid "Number of Slides"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:481
+#@ wooslider
+msgid "The maximum number of slides to display"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:482
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:98
+#@ wooslider
+msgid "Slide Groups"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:482
+#@ wooslider
+msgid "The slide groups from which to display slides"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:483
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:557
+#@ wooslider
+msgid "Use thumbnails for pagination, instead of \"dot\" indicators (uses featured image)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:542
+#@ wooslider
+msgid "None"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:542
+#@ wooslider
+msgid "Full"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:542
+#@ wooslider
+msgid "Natural"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:556
+#@ wooslider
+msgid "Number of Posts"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:556
+#@ wooslider
+msgid "The maximum number of posts to display"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:558
+#@ wooslider
+msgid "Link the post title to it's post"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:558
+#@ wooslider
+msgid "Link the post title to it's single post screen"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:559
+#@ wooslider
+msgid "Display the post's excerpt"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:559
+#@ wooslider
+msgid "Display the post's excerpt on each slide"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:560
+#@ wooslider
+msgid "Layout"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:560
+#@ wooslider
+msgid "The layout to use when displaying posts"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:561
+#@ wooslider
+msgid "Overlay"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:561
+#@ wooslider
+msgid "The type of overlay to use when displaying the post text"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:562
+#@ wooslider
+msgid "The categories from which to display posts"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:563
+#@ wooslider
+msgid "Tags"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-admin.php:563
+#@ wooslider
+msgid "The tags from which to display posts"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-frontend.php:175
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:162
+#@ wooslider
+msgid "Play"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-frontend.php:176
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:170
+#@ wooslider
+msgid "Pause"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:90
+#@ wooslider
+msgid "Search Slide Groups"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:91
+#@ wooslider
+msgid "All Slide Groups"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:92
+#@ wooslider
+msgid "Parent Slide Group"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:93
+#@ wooslider
+msgid "Parent Slide Group:"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:94
+#@ wooslider
+msgid "Edit Slide Group"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:95
+#@ wooslider
+msgid "Update Slide Group"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:96
+#@ wooslider
+msgid "Add New Slide Group"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:97
+#@ wooslider
+msgid "New Slide Group Name"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:138
+#, php-format
+#@ wooslider
+msgid "Add New %s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:139
+#, php-format
+#@ wooslider
+msgid "Edit %s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:140
+#, php-format
+#@ wooslider
+msgid "New %s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:141
+#, php-format
+#@ wooslider
+msgid "All %s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:142
+#, php-format
+#@ wooslider
+msgid "View %s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:143
+#, php-format
+#@ wooslider
+msgid "Search %s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:144
+#, php-format
+#@ wooslider
+msgid "No %s found"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:145
+#, php-format
+#@ wooslider
+msgid "No %s found in Trash"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:180
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:183
+#, php-format
+#@ default
+#@ wooslider
+msgid "%s updated."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:181
+#@ wooslider
+msgid "Custom field updated."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:182
+#@ wooslider
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:185
+#, php-format
+#@ wooslider
+msgid "%2$s restored to revision from %1$s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:186
+#, php-format
+#@ default
+msgid "%2$s published."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:187
+#, php-format
+#@ wooslider
+msgid "%s saved."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:188
+#, php-format
+#@ wooslider
+msgid "%2$s submitted."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:189
+#, php-format
+#@ wooslider
+msgid "%s scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:191
+#@ default
+msgid " M j, Y @ G:i"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:192
+#, php-format
+#@ wooslider
+msgid "%s draft updated."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:207
+#@ wooslider
+msgid "Enter a title for this slide here"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:251
+#@ wooslider
+msgid "No Slide Groups Specified"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings-api.php:131
+#@ wooslider
+msgid "Override init_sections() in your class."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings-api.php:142
+#@ wooslider
+msgid "Override init_fields() in your class."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings-api.php:781
+#, php-format
+#@ wooslider
+msgid "%s is a required field"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings-api.php:792
+#, php-format
+#@ wooslider
+msgid "%s updated"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:71
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:327
+#@ wooslider
+msgid "Settings to apply to all slideshows, unless overridden."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:75
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:338
+#@ wooslider
+msgid "Control Settings"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:76
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:340
+#@ wooslider
+msgid "Customise the ways in which slideshows can be controlled."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:80
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:358
+#@ wooslider
+msgid "Button Settings"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:81
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:360
+#@ wooslider
+msgid "Customise the texts of the various slideshow buttons."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:103
+#@ wooslider
+msgid "The slider animation"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:112
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:330
+#@ wooslider
+msgid "Slide Direction"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:113
+#@ wooslider
+msgid "The direction to slide (if using the \"Slide\" animation)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:122
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:331
+#@ wooslider
+msgid "Slideshow Speed"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:123
+#@ wooslider
+msgid "Set the delay between each slide animation (in seconds)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:132
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:332
+#@ wooslider
+msgid "Animation Speed"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:133
+#@ wooslider
+msgid "Set the duration of each slide animation (in seconds)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:143
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:362
+#@ wooslider
+msgid "\"Previous\" Link Text"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:144
+#@ wooslider
+msgid "The text to display on the \"Previous\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:151
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:363
+#@ wooslider
+msgid "\"Next\" Link Text"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:152
+#@ wooslider
+msgid "The text to display on the \"Next\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:159
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:364
+#@ wooslider
+msgid "\"Play\" Button Text"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:160
+#@ wooslider
+msgid "The text to display on the \"Play\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:167
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:365
+#@ wooslider
+msgid "\"Pause\" Button Text"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:168
+#@ wooslider
+msgid "The text to display on the \"Pause\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:177
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:342
+#@ wooslider
+msgid "Animate the slideshows automatically"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:185
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:343
+#@ wooslider
+msgid "Adjust the height of the slideshow to the height of the current slide"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:193
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:344
+#@ wooslider
+msgid "Display the \"Previous/Next\" navigation"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:201
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:345
+#@ wooslider
+msgid "Display the slideshow pagination"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:209
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:346
+#@ wooslider
+msgid "Enable keyboard navigation"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:217
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:347
+#@ wooslider
+msgid "Enable the mousewheel navigation"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:225
+#@ wooslider
+msgid "Enable the touch swipe navigation on touch-screen devices"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:233
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:348
+#@ wooslider
+msgid "Enable the \"Play/Pause\" event"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:241
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:349
+#@ wooslider
+msgid "Randomize the order of slides in slideshows"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:249
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:350
+#@ wooslider
+msgid "Loop the slideshow animations"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:257
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:351
+#@ wooslider
+msgid "Pause the slideshow autoplay when using the pagination or \"Previous/Next\" navigation"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:265
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:352
+#@ wooslider
+msgid "Pause the slideshow autoplay when hovering over a slide"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:318
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:374
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:444
+#@ wooslider
+msgid "Overview"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:320
+#@ wooslider
+msgid "This screen contains all the default settings for your slideshows created by WooSlider (animation duration, speeds, display of slideshow controls, etc). Anything set here will apply to all WooSlider slideshows, unless overridden by a slideshow."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:329
+#@ wooslider
+msgid "The default animation to use for your slideshows (\"slide\" or \"fade\")."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:330
+#@ wooslider
+msgid "Slide the slideshows either vertically or horizontally (works only with the \"slide\" animation)."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:330
+#@ wooslider
+msgid "NOTE: When sliding vertically, all slides need to have the same height."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:331
+#@ wooslider
+msgid "The delay between each slide animation (in seconds)."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:332
+#@ wooslider
+msgid "The duration of each slide animation (in seconds)."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:342
+#@ wooslider
+msgid "Whether or not to automatically animate between the slides (the alternative is to slide only when using the controls)."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:343
+#@ wooslider
+msgid "Alternatively, the slideshow will take the height from it's tallest slide."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:344
+#@ wooslider
+msgid "Show/hide the \"Previous\" and \"Next\" button controls."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:345
+#@ wooslider
+msgid "Show/hide the pagination bar below the slideshow."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:346
+#@ wooslider
+msgid "Enable navigation of this slideshow via the \"left\" and \"right\" arrow keys on the viewer's computer keyboard."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:347
+#@ wooslider
+msgid "Enable navigation of this slideshow via the viewer's computer mousewheel."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:348
+#@ wooslider
+msgid "Show/hide the \"Play/Pause\" button below the slideshow for pausing and resuming the automated slideshow."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:349
+#@ wooslider
+msgid "Display the slides in the slideshow in a random order."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:350
+#@ wooslider
+msgid "When arriving at the end of the slideshow, carry on sliding from the first slide, indefinitely."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:351
+#@ wooslider
+msgid "Pause the slideshow automation when the viewer decides to navigate using the manual controls."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:352
+#@ wooslider
+msgid "Pause the slideshow automation when the viewer hovers over the slideshow."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:362
+#@ wooslider
+msgid "The text for the \"Previous\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:363
+#@ wooslider
+msgid "The text for the \"Next\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:364
+#@ wooslider
+msgid "The text for the \"Play\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:365
+#@ wooslider
+msgid "The text for the \"Pause\" button."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:376
+#@ wooslider
+msgid "This screen provides access to all of your posts. You can customize the display of this screen to suit your workflow."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:381
+#@ wooslider
+msgid "Screen Content"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:383
+#@ wooslider
+msgid "You can customize the display of this screen's contents in a number of ways:"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:385
+#@ wooslider
+msgid "You can hide/display columns based on your needs and decide how many slides to list per screen using the Screen Options tab."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:386
+#@ wooslider
+msgid "You can filter the list of slides by status using the text links in the upper left to show All, Published, Draft, or Trashed slides. The default view is to show all slides."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:387
+#@ wooslider
+msgid "You can view slides in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:388
+#@ wooslider
+msgid "You can refine the list to show only slides from a specific month by using the dropdown menus above the slides list. Click the Filter button after making your selection. You also can refine the list by clicking on the slide groups in the slides list."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:394
+#@ wooslider
+msgid "Available Actions"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:396
+#@ wooslider
+msgid "Hovering over a row in the posts list will display action links that allow you to manage your post. You can perform the following actions:"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:398
+#@ wooslider
+msgid "takes you to the editing screen for that slide. You can also reach that screen by clicking on the slide title."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:399
+#@ wooslider
+msgid "Quick Edit"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:399
+#@ wooslider
+msgid "provides inline access to the metadata of your slide, allowing you to update slide details without leaving this screen."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:400
+#@ wooslider
+msgid "Trash"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:400
+#@ wooslider
+msgid "removes your slide from this list and places it in the trash, from which you can permanently delete it."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:401
+#@ wooslider
+msgid "will show you what your draft slide will look like if you publish it. View will take you to your live site to view the slide. Which link is available depends on your slide's status."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:407
+#@ wooslider
+msgid "Bulk Actions"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:409
+#@ wooslider
+msgid "You can also edit or move multiple slides to the trash at once. Select the slides you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:410
+#@ wooslider
+msgid "When using Bulk Edit, you can change the metadata (slide groups, etc) for all selected slides at once. To remove a slide from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:418
+#@ wooslider
+msgid "Customize This Display"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:420
+#@ wooslider
+msgid "The title field and the big Slide Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Featured Image) or to choose a 1- or 2-column layout for this screen."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:425
+#@ wooslider
+msgid "Title and Content Editor"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:427
+#@ wooslider
+msgid "Enter a title for your slide."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:428
+#@ wooslider
+msgid "Content Editor"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:428
+#@ wooslider
+msgid "Enter the text for your slide. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your slide text. You can insert media files by clicking the icons above the content editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular content editor. This content area is a blank canvas for each slide. Any content added here will display in the slide.\t"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:433
+#@ wooslider
+msgid "Publish Box"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:435
+#@ wooslider
+msgid "You can set the terms of publishing your slide in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the front of each slideshow it is in (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a slide to be published in the future or backdate a slide."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:436
+#@ wooslider
+msgid "Featured Image"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:436
+#@ wooslider
+msgid "This allows you to associate an image with your slide without inserting it. This is used only if the \"thumbnails\" pagination setting is enabled. Otherwise, the featured image is not used."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:446
+#@ wooslider
+msgid "You can use slide groups to define groupings of slides to be displayed in various WooSlider slideshows."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:451
+#@ wooslider
+msgid "Adding Slide Groups"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:453
+#@ wooslider
+msgid "When adding a new slide group on this screen, you'll fill in the following fields:"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:455
+#@ wooslider
+msgid "The name is how it appears on your site."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:456
+#@ wooslider
+msgid "Slug"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:456
+#@ wooslider
+msgid "The \\\"slug\\\" is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:457
+#@ wooslider
+msgid "Description"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:457
+#@ wooslider
+msgid "The description is not prominent by default; however, some themes may display it (WooSlider doesn't display this anywhere by default)."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:463
+#@ wooslider
+msgid "For more information:"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-settings.php:464
+#@ wooslider
+msgid "Support Desk"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:30
+#@ wooslider
+msgid "Attached Images"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:32
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-posts.php:38
+#@ wooslider
+msgid "Posts"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:44
+#@ wooslider
+msgid "Text Left"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:45
+#@ wooslider
+msgid "Text Right"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:46
+#@ wooslider
+msgid "Text Top"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:47
+#@ wooslider
+msgid "Text Bottom"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-utils.php:79
+#@ wooslider
+msgid "Default"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider.php:67
+#@ wooslider
+msgid "Slideshow Settings"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider.php:68
+#@ wooslider
+msgid "Settings"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-attachments.php:31
+#@ wooslider
+msgid "A slideshow of the images attached to the current page/post"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-attachments.php:33
+#@ wooslider
+msgid "Attached Images Slideshow (FlexSlider)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-attachments.php:38
+#@ wooslider
+msgid "Images"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-base.php:45
+#@ wooslider
+msgid "A slideshow of the content on your site"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-base.php:47
+#@ wooslider
+msgid "Slideshow (FlexSlider)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-base.php:260
+#@ wooslider
+msgid "Title (optional):"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-base.php:266
+#@ wooslider
+msgid "Slideshow Theme:"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-base.php:297
+#@ wooslider
+msgid "Customise Advanced Settings"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-base.php:299
+#@ wooslider
+msgid "Save the widget settings with this checkbox checked to customise slideshow settings."
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-posts.php:31
+#@ wooslider
+msgid "A slideshow of posts on your site"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-posts.php:33
+#@ wooslider
+msgid "Posts Slideshow (FlexSlider)"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-slides.php:31
+#@ wooslider
+msgid "A slideshow of slides on your site"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/widgets/widget-wooslider-slides.php:33
+#@ wooslider
+msgid "Slides Slideshow (Flexslider)"
+msgstr ""
+
+#: widgets/contact_info.php:36
+#@ Avada
+msgid "Phone:"
+msgstr ""
+
+#: widgets/contact_info.php:40
+#@ Avada
+msgid "Fax:"
+msgstr ""
+
+#: widgets/contact_info.php:44
+#: woocommerce/order/order-details.php:116
+#@ Avada
+#@ woocommerce
+msgid "Email:"
+msgstr ""
+
+#: widgets/contact_info.php:48
+#@ Avada
+msgid "Web:"
+msgstr ""
+
+#: widgets/tabs_widget.php:45
+#@ Avada
+msgid "Popular"
+msgstr ""
+
+#: widgets/tabs_widget.php:48
+#@ Avada
+msgid "Recent"
+msgstr ""
+
+#: widgets/tabs_widget.php:131
+#@ Avada
+msgid "says"
+msgstr ""
+
+#: woocommerce/content-product.php:63
+#@ Avada
+msgid "Show details"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+#: woocommerce/loop-shop.php:40
+#@ woocommerce
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/myaccount-nav.php:5
+#@ Avada
+msgid "View Orders"
+msgstr ""
+
+#: woocommerce/myaccount-nav.php:10
+#@ Avada
+msgid "Change Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:21
+#: woocommerce/myaccount/form-lost-password.php:20
+#: woocommerce/myaccount-nav.php:15
+#@ Avada
+msgid "Change Password"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:28
+#, php-format
+#@ woocommerce
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:41
+#: woocommerce/single-product-reviews.php:28
+#@ woocommerce
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+#: woocommerce/single-product-reviews.php:42
+#@ woocommerce
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#@ woocommerce
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#@ woocommerce
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#@ woocommerce
+msgid "Add Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#@ woocommerce
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+#@ woocommerce
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#@ woocommerce
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#@ woocommerce
+msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:81
+#: woocommerce/single-product-reviews.php:86
+#@ Avada
+#@ woocommerce
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#@ woocommerce
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+#@ woocommerce
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+#@ woocommerce
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+#@ woocommerce
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+#@ woocommerce
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+#@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+#@ woocommerce
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+#@ woocommerce
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/user-welcome.php:7
+#, php-format
+#@ Avada
+msgid "Hello, %s:"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:15
+#@ woocommerce
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:15
+#@ woocommerce
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:22
+#, php-format
+#@ Avada
+msgid "You Have %d items In Your Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#: woocommerce/order/order-details.php:23
+#@ woocommerce
+msgid "Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+#: woocommerce/order/order-details.php:24
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+#: woocommerce/checkout/review-order.php:22
+#: woocommerce/myaccount/my-account.php:44
+#: woocommerce/myaccount/my-orders.php:41
+#: woocommerce/order/order-details.php:25
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:69
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:111
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+#@ woocommerce
+msgid "Have A Promotional Code?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+#@ woocommerce
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:165
+#@ woocommerce
+msgid "Update Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:165
+#@ woocommerce
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:39
+#@ woocommerce
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:55
+#@ woocommerce
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:63
+#@ woocommerce
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:68
+#@ woocommerce
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+#@ woocommerce
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:20
+#@ woocommerce
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:26
+#@ woocommerce
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:43
+#: woocommerce/cart/shipping-calculator.php:49
+#: woocommerce/cart/shipping-calculator.php:61
+#@ woocommerce
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#@ woocommerce
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:70
+#@ woocommerce
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:78
+#@ woocommerce
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:83
+#@ woocommerce
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:32
+#@ woocommerce
+msgid "Free"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:68
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76
+#: woocommerce/cart/totals.php:147
+#, php-format
+#@ woocommerce
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76
+#: woocommerce/cart/totals.php:147
+#@ woocommerce
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: woocommerce/cart/totals.php:22
+#@ woocommerce
+msgid "Shopping Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/totals.php:28
+#: woocommerce/checkout/review-order.php:27
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#: woocommerce/checkout/review-order.php:34
+#@ woocommerce
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#: woocommerce/cart/totals.php:83
+#@ woocommerce
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:46
+#: woocommerce/checkout/review-order.php:45
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/totals.php:83
+#: woocommerce/checkout/review-order.php:82
+#@ woocommerce
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:92
+#: woocommerce/checkout/review-order.php:91
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/totals.php:105
+#: woocommerce/checkout/review-order.php:104
+#, php-format
+#@ woocommerce
+msgid "(Includes %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:121
+#, php-format
+#@ woocommerce
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:123
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/totals.php:135
+#@ woocommerce
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure there are no other available methods for your location."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+#@ woocommerce
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+#@ woocommerce
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:17
+#@ woocommerce
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:21
+#: woocommerce/checkout/form-checkout.php:31
+#: woocommerce/myaccount/form-edit-address.php:33
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:130
+#@ woocommerce
+#@ Avada
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:41
+#@ woocommerce
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:50
+#@ woocommerce
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:22
+#@ woocommerce
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:36
+#: woocommerce/checkout/form-shipping.php:35
+#: woocommerce/myaccount/form-edit-address.php:33
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:145
+#@ Avada
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:41
+#@ Avada
+msgid "Review &amp; Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:62
+#: woocommerce/checkout/form-checkout.php:70
+#@ Avada
+msgid "Continue"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:81
+#@ Avada
+msgid "Review &amp Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:16
+#@ woocommerce
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+#@ woocommerce
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:24
+#@ woocommerce
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+#@ woocommerce
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:17
+#@ woocommerce
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+#@ woocommerce
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:21
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+#@ woocommerce
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+#@ woocommerce
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:78
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:87
+#@ woocommerce
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#@ woocommerce
+msgid "Ship to billing address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:59
+#: woocommerce/single-product/tabs/additional-information.php:14
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:140
+#@ woocommerce
+msgid "Quantity: "
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:189
+#@ woocommerce
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:191
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:200
+#@ woocommerce
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:200
+#@ woocommerce
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:207
+#@ woocommerce
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:214
+#@ woocommerce
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:214
+#@ woocommerce
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:20
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:26
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#: woocommerce/myaccount/my-account.php:81
+#: woocommerce/myaccount/my-orders.php:77
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38
+#: woocommerce/checkout/thankyou.php:75
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:33
+#@ woocommerce
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:37
+#@ woocommerce
+msgid "View options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:46
+#: woocommerce/single-product/add-to-cart/grouped.php:45
+#: woocommerce/single-product/add-to-cart/grouped.php:77
+#: woocommerce/single-product/add-to-cart/simple.php:42
+#: woocommerce/single-product/add-to-cart/variable.php:83
+#@ woocommerce
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:21
+#@ woocommerce
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+#@ woocommerce
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+#@ woocommerce
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+#@ woocommerce
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+#@ woocommerce
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+#@ woocommerce
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#@ woocommerce
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+#@ woocommerce
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:23
+#@ Avada
+msgid "Enter the following fields to change the password on your account"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:30
+#: woocommerce/myaccount/form-lost-password.php:35
+#@ woocommerce
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:33
+#: woocommerce/myaccount/form-lost-password.php:38
+#@ woocommerce
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:37
+#: woocommerce/myaccount/form-lost-password.php:47
+#@ woocommerce
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:49
+#@ woocommerce
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:26
+#@ Avada
+msgid "I'm a Returning Customer"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:31
+#@ Avada
+msgid "Username or Email Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+#: woocommerce/shop/form-login.php:31
+#@ Avada
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53
+#: woocommerce/shop/form-login.php:33
+#@ Avada
+#@ woocommerce
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#@ Avada
+msgid "Register An Account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:90
+#@ Avada
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:101
+#@ woocommerce
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:26
+#@ woocommerce
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+#: woocommerce/shop/form-login.php:20
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:32
+#@ woocommerce
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:47
+#@ woocommerce
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:35
+#: woocommerce/myaccount/my-orders.php:32
+#@ woocommerce
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:41
+#: woocommerce/myaccount/my-orders.php:38
+#@ woocommerce
+msgid "Order No."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:45
+#: woocommerce/myaccount/my-orders.php:42
+#@ woocommerce
+msgid "Details"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:87
+#: woocommerce/myaccount/my-orders.php:83
+#@ woocommerce
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:92
+#: woocommerce/myaccount/my-orders.php:88
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ woocommerce
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ woocommerce
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+#@ woocommerce
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+#@ woocommerce
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+#@ woocommerce
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+#@ woocommerce
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+#@ woocommerce
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:19
+#@ woocommerce
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:61
+#, php-format
+#@ woocommerce
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:101
+#@ woocommerce
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details.php:112
+#@ woocommerce
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:117
+#@ woocommerce
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:134
+#: woocommerce/order/order-details.php:149
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+#@ woocommerce
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#@ woocommerce
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid " ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:31
+#@ woocommerce
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:63
+#@ woocommerce
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:91
+#: woocommerce/shop/breadcrumb.php:188
+#@ woocommerce
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:146
+#@ woocommerce
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:192
+#@ woocommerce
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:197
+#@ woocommerce
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:202
+#@ woocommerce
+msgid "Page"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:19
+#@ woocommerce
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:28
+#@ woocommerce
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:37
+#@ woocommerce
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/related.php:38
+#@ woocommerce
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:25
+#@ woocommerce
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:32
+#@ woocommerce
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:40
+#, php-format
+#@ woocommerce
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:41
+#@ woocommerce
+msgid "You May Also Like"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:24
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:69
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+#@ woocommerce
+msgid "Product Description"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:159
+#: functions.php:157
+#, php-format
+#@ Avada
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:160
+#: functions.php:158
+#, php-format
+#@ Avada
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:161
+#: functions.php:159
+#, php-format
+#@ Avada
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:162
+#: functions.php:160
+#, php-format
+#@ Avada
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:163
+#: functions.php:161
+#, php-format
+#@ Avada
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:164
+#: functions.php:162
+#, php-format
+#@ Avada
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:165
+#: functions.php:163
+#, php-format
+#@ Avada
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:166
+#: functions.php:164
+#, php-format
+#@ Avada
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:167
+#: functions.php:165
+#@ Avada
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:168
+#: functions.php:166
+#@ Avada
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/class-tgm-plugin-activation.php:1538
+#: framework/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:88
+#@ wooslider
+msgctxt "taxonomy general name"
+msgid "Slide Groups"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:89
+#@ wooslider
+msgctxt "taxonomy singular name"
+msgid "Slide Group"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:135
+#, php-format
+#@ wooslider
+msgctxt "post type general name"
+msgid "%s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:136
+#, php-format
+#@ wooslider
+msgctxt "post type singular name"
+msgid "%s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:137
+#, php-format
+#@ wooslider
+msgctxt ""
+msgid "Add New %s"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:223
+#@ wooslider
+msgctxt "column name"
+msgid "Slide Title"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:224
+#@ wooslider
+msgctxt "column name"
+msgid "Featured Image"
+msgstr ""
+
+#: framework/plugins/tf-flexslider/classes/class-wooslider-posttypes.php:225
+#@ wooslider
+msgctxt "column name"
+msgid "Slide Groups"
+msgstr ""
+
+#: header.php:2485
+#: header.php:2553
+#@ Avada
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: header.php:2487
+#: header.php:2555
+#@ Avada
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: woocommerce/cart/cart.php:94
+#: woocommerce/single-product/add-to-cart/quantity.php:12
+#@ woocommerce
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:72
+#: woocommerce/myaccount/my-orders.php:68
+#, php-format
+#@ woocommerce
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+#@ woocommerce
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:24
+#@ woocommerce
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+#@ woocommerce
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:30
+#, php-format
+#@ woocommerce
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
