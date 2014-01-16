@@ -427,7 +427,7 @@ jQuery(document).ready(function($) {
             if(response == 1){
                 jQuery(".description label").html("Login Success..");
                 jQuery(".description label").attr('style', 'color:green !important');
-                window.location.replace("https://chefami.com/my-account/");
+                window.location.replace("//chefami.com/my-account/");;
             } else {
                 jQuery(".description label").html("Invalid Credentials");
                 jQuery(".description label").attr('style', 'color:red !important');

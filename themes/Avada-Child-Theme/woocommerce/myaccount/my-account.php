@@ -73,10 +73,10 @@ $dd = implode('', $dd);
          <td>
             <h2 class="header_title"><?php echo _e( 'My Plan', 'woocommerce' ) ; ?>
 			<?php
-				$curDay = date('l');
+				$curDay = date_i18n('l');
 				$checkDay = array("Thursday");				
 			?>
-			<?php if($dd < date('Ymd') && !in_array($curDay, $checkDay)) { $clas = "plan_edit"; } else if($dd > date('Ymd')) { $clas = "show_message_not_change"; } else { $clas = "show_message_not_change_on_thrusday";  } ?>
+			<?php if($dd < date_i18n('Ymd') && !in_array($curDay, $checkDay)) { $clas = "plan_edit"; } else if($dd > date_i18n('Ymd')) { $clas = "show_message_not_change"; } else { $clas = "show_message_not_change_on_thrusday";  } ?>
 				<span class="<?php echo $clas; ?>">Edit</span>			
 			</h2>
             <div class="plan_information">
@@ -199,7 +199,7 @@ $dd = implode('', $dd);
                 <div class="info_heading">Name & Address</div>
                 <div class="info_values">
                     <script type="text/javascript">
-                        $(function($){
+                        jQuery(function($){
                             $.load_delivery_info();
                         });
                     </script>
@@ -249,7 +249,7 @@ $dd = implode('', $dd);
             <h2 class="header_title_last"><?php echo _e( 'Account Information', 'woocommerce' ) ; ?><span class="account_edit">Edit</span></h2>
             <div class="account_information">
                 <script type="text/javascript">
-                    $(function(){
+                     jQuery(function($){
                         $.load_account_info();
                     });
                 </script>

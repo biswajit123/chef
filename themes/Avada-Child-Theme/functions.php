@@ -311,7 +311,7 @@ function my_custom_checkout_field_update_order_meta( $order_id ) {
 
 function get_delivery_date(){
     /*date_default_timezone_set('America/New_York');*/
-    $today=date('d-m-Y');
+    $today=date_i18n('d-m-Y');
     $now = strtotime($today);
     $nextTuesday = strtotime('next tuesday');
 
@@ -322,9 +322,9 @@ function get_delivery_date(){
     if($days<6)
     {
         $date = strtotime("+7 day", $nextTuesday);
-        return $deliverydate= date('m/d/y', $date)." (".date('l', $date).")";
+        return $deliverydate= date_i18n('m/d/y', $date)." (".date_i18n('l', $date).")";
     }else{
-        return $deliverydate= date('m/d/y', $nextTuesday)." (".date('l', $nextTuesday).")";
+        return $deliverydate= date_i18n('m/d/y', $nextTuesday)." (".date_i18n('l', $nextTuesday).")";
     }
 }
 
@@ -437,7 +437,7 @@ function upd_subscription_of_current_holder(){
     update_user_meta($user_id, 'wallet', $remaining_wallet_Balance);
 
 
-    $user_deduction['date']=date('Y-m-d');
+    $user_deduction['date']=date_i18n('Y-m-d');
     $user_deduction['amount']=$refCode;
 
     $existing_amount = get_user_meta($user_id, 'user_used_amount_details', ture);
@@ -1114,8 +1114,8 @@ add_action('wp_ajax_send_Email_to_my_friend', 'send_main_to_friend');
 function skip_order_han(){
     add_user_meta(get_current_user_id(), 'suspended', $_REQUEST['o_ID']);
 
-	$nxtTues =  date('Ymd', strtotime('next tuesday'));
-	$currDate = date('Ymd');
+	$nxtTues =  date_i18n('Ymd', strtotime('next tuesday'));
+	$currDate = date_i18n('Ymd');
 
 //	if($currDate + 6 > $nxtTues)
 //		$nxtTues = $nxtTues + 7;
@@ -1135,13 +1135,13 @@ function skip_order_han(){
     }
 
     $curTime = $_REQUEST['o_ID'];
-     if($curTime - 5 < date('Ymd')) {
+     if($curTime - 5 < date_i18n('Ymd')) {
       $html = "
             <div class='info-col-in skipped'>
-                <h4>". date('l, F jS',strtotime($curTime))."</h4>
+                <h4>". date_i18n('l, F jS',strtotime($curTime))."</h4>
                 <p class='skipper'>Skipped</p>
                 <p>
-                    Oh no! You have skipped your ". date('F jS',strtotime($curTime))." delivery.
+                    Oh no! You have skipped your ". date_i18n('F jS',strtotime($curTime))." delivery.
                 </p>
             </div>
             <script>
@@ -1157,10 +1157,10 @@ function skip_order_han(){
          } else {
          $html ="
                 <div class='info-col-in skipped'>
-                    <h4>". date('l, F jS',strtotime($curTime))."</h4>
+                    <h4>". date_i18n('l, F jS',strtotime($curTime))."</h4>
                     <p class='skipper'>Skipped</p>
                     <p>
-                        Oh no! You have chosen to skip your ". date('F jS',strtotime($curTime)) ." delivery. If you change your mind you have until midnight (ET) on ". date('F jS',strtotime($curTime."-6 days")) ." to unskip and receive your delicious recipes and fresh ingredients!
+                        Oh no! You have chosen to skip your ". date_i18n('F jS',strtotime($curTime)) ." delivery. If you change your mind you have until midnight (ET) on ". date_i18n('F jS',strtotime($curTime."-6 days")) ." to unskip and receive your delicious recipes and fresh ingredients!
                     </p>
                     <a class='unskip btn' data-order_id='". $curTime."' href='#'>Unskip</a>
                 </div>
@@ -1188,8 +1188,8 @@ function resume_order_han(){
     delete_user_meta(get_current_user_id(), 'suspended', $_REQUEST['o_ID']);
     global $wpdb;
 	
-	$nxtTues =  date('Ymd', strtotime('next tuesday'));
-	$currDate = date('Ymd');
+	$nxtTues =  date_i18n('Ymd', strtotime('next tuesday'));
+	$currDate = date_i18n('Ymd');
 
 //	if($currDate + 6 > $nxtTues)
 //		$nxtTues = $nxtTues + 7;
@@ -1213,7 +1213,7 @@ function resume_order_han(){
     $wpdb->query($sql);
     $curTime = $_REQUEST['o_ID'];
     $html = "<div class='info-col-in sched'>
-                        <h4>". date('l, F jS',strtotime($curTime))."</h4>
+                        <h4>". date_i18n('l, F jS',strtotime($curTime))."</h4>
                         <p class='scheduled'>Scheduled</p>
                         <p class='lbl'>We're still cookin' - Recipes coming soon!</p>
                         <div class='clearfix'>
@@ -1239,8 +1239,7 @@ add_action('wp_ajax_resume_order', 'resume_order_han');
 /** Template redirect for user can't see order page **/
 function hide_oder_page_for_member(){
 	 global $woocommerce, $current_user, $product, $post;
-
-         
+	
     $card_details = get_user_meta( get_current_user_id(), '_stripe_customer_id', true );
     if(empty($card_details) && is_page(get_option('woocommerce_myaccount_page_id'))){
 		$woocommerce->add_error (__("Please purchase a product first."));
@@ -1508,7 +1507,7 @@ class Order_Widget extends WP_Widget {
 					</div>  		
 					<div class="next-delivery-widget">
 						<span style="font-size:23px;font-weight:bold;">Next Delivery:</span>
-						<?php $date = get_delivery_date(); $date = explode(' ', $date); $date = date('l M dS', strtotime($date[0])); ?>
+						<?php $date = get_delivery_date(); $date = explode(' ', $date); $date = date_i18n('l M dS', strtotime($date[0])); ?>
 							<div style="margin-top:5px;"><?php echo $date; ?>&nbsp;</div>					
 					</div>				   
 				</div>
@@ -1584,7 +1583,7 @@ function ps_do_this_daily() {
 //    if(date('l') == "Saturday") {        // Cron run daily but execute only in sunday
         $allUser = $wpdb->get_results('SELECT * FROM wp_users WHERE 1;');
 //		if(date('l') != "Tuesday" || date('l') != "Wednesday")
-	        $nxtTues =  date('Ymd', strtotime('next tuesday'));         // Get the Next Tuesday to run cron
+	        $nxtTues =  date_i18n('Ymd', strtotime('next tuesday'));         // Get the Next Tuesday to run cron
 /*		else 
 			$nxtTues =  date('Ymd', strtotime('next tuesday'));         // Get the Next Tuesday to run cron*/
 		
@@ -1688,8 +1687,8 @@ function putSubscriptionON_action(){
 		update_user_meta($userID, 'permanent_pause', 'active');
 	} else if($action == 'resume'){ 	    
 		
-		$nxtTues =  date('Ymd', strtotime('next tuesday'));
-		$currDate = date('Ymd');
+		$nxtTues =  date_i18n('Ymd', strtotime('next tuesday'));
+		$currDate = date_i18n('Ymd');
 
 		if($currDate + 6 > $nxtTues)
 			$nxtTues = $nxtTues + 7;

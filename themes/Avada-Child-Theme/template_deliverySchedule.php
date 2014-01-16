@@ -49,7 +49,7 @@ foreach($cur_user_subscription as $suk => $suv){
 	//$subscriptionID = $suv['order_id'] . '_' . $suv['product_id'];
 	$subscriptionID = $suk;
 	$odr = $suv['order_id'];
-	$f____d = date('l', strtotime($suv['start_date']));
+	$f____d = date_i18n('l', strtotime($suv['start_date']));
 	break;      /* use because one time subscription */
 }
 
@@ -160,13 +160,14 @@ if($f____d == 'Thursday' || $f____d == 'Friday' || $f____d == 'Saturday'){
 
 $dd_day = 5;
 
+//echo date_i18n('d-m-Y H:i:s');
 
 if(!empty($dd)) {
     $curTime = $dd;
 } else {
-    $curTime = date('Ymd');
+    $curTime = date_i18n('Ymd');
 }
-$jSon_array = array(); $desTime = date('Ymd', strtotime("+ 2 months"));$curTime = date('Ymd');$i=0;
+$jSon_array = array(); $desTime = date_i18n('Ymd', strtotime("+ 2 months"));$curTime = date_i18n('Ymd');$i=0;
 
 /* fetch data from db for suspend delivery */
 ?>
@@ -179,14 +180,14 @@ $jSon_array = array(); $desTime = date('Ymd', strtotime("+ 2 months"));$curTime 
     $ex_Cancel_Date = get_user_meta(get_current_user_id(), 'suspended', false);
     /*****/
     for($incTime = 1; $curTime < $desTime ; $incTime++){
-        $curTime = date('Ymd', strtotime('+ '.$incTime.' days'));
-        if(strtolower(date('l', strtotime('+ '.$incTime.' days'))) == 'tuesday' && ($curTime >= $dd)){
+        $curTime = date_i18n('Ymd', strtotime('+ '.$incTime.' days'));
+        if(strtolower(date_i18n('l', strtotime('+ '.$incTime.' days'))) == 'tuesday' && ($curTime >= $dd)){
             ?>
             <!--Html for that Particular Order -->
 			<?php if ($curTime == $dd) { ?>
 				<div class='upcoming-order hide' id='order_<?php echo $curTime; ?>'>
 					<div class='info-col-in skipped'>
-						<h4><?php echo date('l, F jS',strtotime($curTime)); ?></h4>
+						<h4><?php echo date_i18n('l, F jS',strtotime($curTime)); ?></h4>
 						<p class='skipper_NO'>First Delivery</p>
 						<p>
 							Your first delivery has already been processed and cannot be skipped.
@@ -205,7 +206,7 @@ $jSon_array = array(); $desTime = date('Ymd', strtotime("+ 2 months"));$curTime 
 			<?php } else if(!in_array($curTime, $ex_Cancel_Date) && $incTime > $dd_day && empty($parmanent_cancel_delivery)) { ?>
                 <div class='upcoming-order hide' id='order_<?php echo $curTime; ?>' style="display:none;">
                     <div class='info-col-in sched'>
-                        <h4><?php echo date('l, F jS',strtotime($curTime)); ?></h4>
+                        <h4><?php echo date_i18n('l, F jS',strtotime($curTime)); ?></h4>
                         <p class='scheduled'>Scheduled</p>
                         <p class='lbl'>New Recipes Coming Soon!</p>
                         <div class='clearfix'>
@@ -229,11 +230,11 @@ $jSon_array = array(); $desTime = date('Ymd', strtotime("+ 2 months"));$curTime 
                         //]]>
                     </script>
                 </div>
-                <?php } else if($curTime - $dd_day <= date('Ymd') && !in_array($curTime, $ex_Cancel_Date)) { ?>			
+                <?php } else if($curTime - $dd_day <= date_i18n('Ymd') && !in_array($curTime, $ex_Cancel_Date)) { ?>			
 
 						<div class='upcoming-order hide' id='order_<?php echo $curTime; ?>'>
 							<div class='info-col-in skipped'>
-								<h4><?php echo date('l, F jS',strtotime($curTime)); ?></h4>
+								<h4><?php echo date_i18n('l, F jS',strtotime($curTime)); ?></h4>
 								<p class='skipper_NO'>Processed Delivery</p>
 								<p>
 									This delivery has already been processed and cannot be skipped.
@@ -250,13 +251,13 @@ $jSon_array = array(); $desTime = date('Ymd', strtotime("+ 2 months"));$curTime 
 
 						</div>
 					
-                <?php } else if($curTime - $dd_day > date('Ymd')) { ?>
+                <?php } else if($curTime - $dd_day > date_i18n('Ymd')) { ?>
                 <div class='upcoming-order hide' id='order_<?php echo $curTime; ?>'>
                     <div class='info-col-in skipped'>
-                        <h4><?php echo date('l, F jS',strtotime($curTime)); ?></h4>
+                        <h4><?php echo date_i18n('l, F jS',strtotime($curTime)); ?></h4>
                         <p class='skipper'>Skipped</p>
                         <p>
-                            Oh no! You have chosen to skip your <?php echo date('F jS',strtotime($curTime)); ?> delivery. If you change your mind you have until midnight (ET) on <?php echo date('F jS',strtotime($curTime."-6 days")); ?> to unskip and receive your delicious recipes and fresh ingredients! 
+                            Oh no! You have chosen to skip your <?php echo date_i18n('F jS',strtotime($curTime)); ?> delivery. If you change your mind you have until midnight (ET) on <?php echo date_i18n('F jS',strtotime($curTime."-6 days")); ?> to unskip and receive your delicious recipes and fresh ingredients! 
                         </p>
 						<?php if( empty($parmanent_cancel_delivery)) { ?>
                         <a class='unskip btn' data-order_id='<?php echo $curTime; ?>' href='#'>Unskip</a>
@@ -275,10 +276,10 @@ $jSon_array = array(); $desTime = date('Ymd', strtotime("+ 2 months"));$curTime 
                 <?php } else { ?>
 				<div class='upcoming-order hide' id='order_<?php echo $curTime; ?>'>
                     <div class='info-col-in skipped'>
-                        <h4><?php echo date('l, F jS',strtotime($curTime)); ?></h4>
+                        <h4><?php echo date_i18n('l, F jS',strtotime($curTime)); ?></h4>
                         <p class='skipper'>Skipped</p>
                         <p>
-                            Oh no! You have skip your <?php echo date('F jS',strtotime($curTime)); ?> delivery.
+                            Oh no! You have skip your <?php echo date_i18n('F jS',strtotime($curTime)); ?> delivery.
                         </p>						
                     </div>
                     <script>
@@ -299,7 +300,7 @@ $jSon_array = array(); $desTime = date('Ymd', strtotime("+ 2 months"));$curTime 
 		//}
 		//if(strtolower(date('l', strtotime('+ '.$incTime.' days'))) == 'tuesday' && $curTime >= $dd){
 
-            $jSon_array[$i]['date'] = date('Y-m-d', strtotime($curTime));
+            $jSon_array[$i]['date'] = date_i18n('Y-m-d', strtotime($curTime));
             $jSon_array[$i]['order_id'] = $curTime;
             if(!in_array($curTime, $ex_Cancel_Date) && empty($parmanent_cancel_delivery)) {
                 $jSon_array[$i]['status'] = 'Scheduled';
